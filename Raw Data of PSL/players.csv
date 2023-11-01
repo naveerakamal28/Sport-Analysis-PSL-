@@ -1,0 +1,865 @@
+,season,team,name,role,age,batting,bowling
+0,2015/2016,Islamabad United,Amad Butt,Bowling Allrounder,20y 226d,Right hand Bat,Right arm Fast
+1,2015/2016,Islamabad United,Babar Azam,Batter,21y 68d,Right hand Bat,Right arm Offbreak
+2,2015/2016,Islamabad United,Samuel Badree,Bowler,34y 288d,Right hand Bat,Legbreak
+3,2015/2016,Islamabad United,Sam Billings†,Wicketkeeper Batter,24y 190d,Right hand Bat,
+4,2015/2016,Islamabad United,Brad Haddin†,Wicketkeeper Batter,38y 60d,Right hand Bat,
+5,2015/2016,Islamabad United,Imran Khalid,,32y 358d,Left hand Bat,Slow Left arm Orthodox
+6,2015/2016,Islamabad United,Kamran Ghulam,Allrounder,20y 73d,Right hand Bat,Slow Left arm Orthodox
+7,2015/2016,Islamabad United,Khalid Latif,Top order Batter,30y 48d,Right hand Bat,Right arm Offbreak
+8,2015/2016,Islamabad United,Misbah-ul-Haq,Middle order Batter,41y 208d,Right hand Bat,Legbreak
+9,2015/2016,Islamabad United,Mohammad Irfan,Bowler,33y 199d,Right hand Bat,Left arm Fast
+10,2015/2016,Islamabad United,Mohammad Sami,Bowler,34y 301d,Right hand Bat,Right arm Fast
+11,2015/2016,Islamabad United,Rumman Raees,Bowler,24y 65d,Right hand Bat,Left arm Medium fast
+12,2015/2016,Islamabad United,Andre Russell,Allrounder,27y 237d,Right hand Bat,Right arm Fast
+13,2015/2016,Islamabad United,Sharjeel Khan,Opening Batter,26y 130d,Left hand Bat,Legbreak
+14,2015/2016,Islamabad United,Umar Amin,Top order Batter,26y 67d,Left hand Bat,Right arm Medium
+15,2015/2016,Islamabad United,Shane Watson,Allrounder,34y 188d,Right hand Bat,Right arm Fast medium
+16,2015/2016,Karachi Kings,Shoaib Malik(c),Allrounder,33y 324d,Right hand Bat,Right arm Offbreak
+17,2015/2016,Karachi Kings,Bilawal Bhatti,Bowler,24y 96d,Right hand Bat,Right arm Medium fast
+18,2015/2016,Karachi Kings,Ravi Bopara,Batting Allrounder,30y 232d,Right hand Bat,Right arm Medium
+19,2015/2016,Karachi Kings,Iftikhar Ahmed,Middle order Batter,25y 110d,Right hand Bat,Right arm Offbreak
+20,2015/2016,Karachi Kings,Imad Wasim,Allrounder,27y 4d,Left hand Bat,Slow Left arm Orthodox
+21,2015/2016,Karachi Kings,Mir Hamza,Bowler,23y 103d,Left hand Bat,Left arm Medium
+22,2015/2016,Karachi Kings,Mohammad Amir,Bowler,23y 253d,Left hand Bat,Left arm Fast medium
+23,2015/2016,Karachi Kings,Mushfiqur Rahim†,Wicketkeeper Batter,28y 227d,Right hand Bat,
+24,2015/2016,Karachi Kings,Nauman Anwar,Opening Batter,20y 71d,Right hand Bat,Right arm Medium fast
+25,2015/2016,Karachi Kings,Saifullah Bangash†,Wicketkeeper Batter,20y 276d,Right hand Bat,
+26,2015/2016,Karachi Kings,Shakib Al Hasan,Allrounder,28y 273d,Left hand Bat,Slow Left arm Orthodox
+27,2015/2016,Karachi Kings,Lendl Simmons,Top order Batter,30y 331d,Right hand Bat,Right arm Medium fast
+28,2015/2016,Karachi Kings,Sohail Khan,Bowler,31y 291d,Right hand Bat,Right arm Fast medium
+29,2015/2016,Karachi Kings,Sohail Tanvir,Bowler,31y 10d,Left hand Bat,Left arm Medium fast
+30,2015/2016,Karachi Kings,Usama Mir,Bowler,19y 364d,Right hand Bat,Legbreak
+31,2015/2016,Karachi Kings,James Vince,Batter,24y 283d,Right hand Bat,Right arm Medium
+32,2015/2016,Lahore Qalandars,Adnan Rasool,,34y 233d,Right hand Bat,Right arm Offbreak
+33,2015/2016,Lahore Qalandars,Azhar Ali,Top order Batter,30y 304d,Right hand Bat,Legbreak
+34,2015/2016,Lahore Qalandars,Dwayne Bravo,Allrounder,32y 74d,Right hand Bat,Right arm Medium
+35,2015/2016,Lahore Qalandars,Kevon Cooper,Allrounder,26y 307d,Right hand Bat,Right arm Medium
+36,2015/2016,Lahore Qalandars,Cameron Delport,Top order Batter,26y 222d,Left hand Bat,Right arm Medium
+37,2015/2016,Lahore Qalandars,Chris Gayle,Allrounder,36y 90d,Left hand Bat,Right arm Offbreak
+38,2015/2016,Lahore Qalandars,Hammad Azam,Middle order Batter,24y 279d,Right hand Bat,Right arm Medium
+39,2015/2016,Lahore Qalandars,Mohammad Rizwan†,Wicketkeeper Batter,23y 202d,Right hand Bat,
+40,2015/2016,Lahore Qalandars,Mustafizur Rahman,Bowler,20y 105d,Left hand Bat,Left arm Fast medium
+41,2015/2016,Lahore Qalandars,Naved Yasin,Middle order Batter,28y 158d,Left hand Bat,Slow Left arm Orthodox
+42,2015/2016,Lahore Qalandars,Sohaib Maqsood,Middle order Batter,28y 249d,Right hand Bat,Right arm Offbreak
+43,2015/2016,Lahore Qalandars,Umar Akmal,Middle order Batter,25y 208d,Right hand Bat,Right arm Offbreak
+44,2015/2016,Lahore Qalandars,Yasir Shah,Bowler,29y 232d,Right hand Bat,Legbreak Googly
+45,2015/2016,Lahore Qalandars,Zafar Gohar,Bowler,20y 322d,Left hand Bat,Slow Left arm Orthodox
+46,2015/2016,Lahore Qalandars,Zia-ul-Haq,,21y 9d,Right hand Bat,Left arm Fast medium
+47,2015/2016,Lahore Qalandars,Zohaib Khan,Allrounder,31y 275d,Right hand Bat,Slow Left arm Orthodox
+48,2015/2016,Peshawar Zalmi,Aamer Yamin,Allrounder,25y 179d,Right hand Bat,Right arm Medium
+49,2015/2016,Peshawar Zalmi,Abdur Rehman,Bowler,35y 296d,Left hand Bat,Slow Left arm Orthodox
+50,2015/2016,Peshawar Zalmi,Jim Allenby,Allrounder,33y 101d,Right hand Bat,Right arm Medium
+51,2015/2016,Peshawar Zalmi,Jonny Bairstow†,Wicketkeeper Batter,26y 87d,Right hand Bat,Right arm Medium
+52,2015/2016,Peshawar Zalmi,Hasan Ali,Bowler,21y 173d,Right hand Bat,Right arm Medium fast
+53,2015/2016,Peshawar Zalmi,Imran Khan,Bowler,27y 161d,Right hand Bat,Left arm Medium fast
+54,2015/2016,Peshawar Zalmi,Junaid Khan,Bowler,25y 363d,Right hand Bat,Left arm Fast
+55,2015/2016,Peshawar Zalmi,Kamran Akmal†,Wicketkeeper Batter,33y 343d,Right hand Bat,
+56,2015/2016,Peshawar Zalmi,Dawid Malan,Top order Batter,28y 110d,Left hand Bat,Legbreak
+57,2015/2016,Peshawar Zalmi,Mohammad Asghar,Bowler,16y 359d,Right hand Bat,Slow Left arm Orthodox
+58,2015/2016,Peshawar Zalmi,Mohammad Hafeez,Allrounder,35y 66d,Right hand Bat,Right arm Offbreak
+59,2015/2016,Peshawar Zalmi,Musadiq Ahmed,,26y 241d,Right hand Bat,
+60,2015/2016,Peshawar Zalmi,Daren Sammy,Allrounder,32y 2d,Right hand Bat,Right arm Medium
+61,2015/2016,Peshawar Zalmi,Shahid Afridi,Allrounder,35y 296d,Right hand Bat,Legbreak Googly
+62,2015/2016,Peshawar Zalmi,Shahid Yousaf,Batter,29y 190d,Right hand Bat,Right arm Medium fast
+63,2015/2016,Peshawar Zalmi,Shaun Tait,Bowler,32y 303d,Right hand Bat,Right arm Fast
+64,2015/2016,Peshawar Zalmi,Tamim Iqbal,Opening Batter,26y 277d,Left hand Bat,
+65,2015/2016,Peshawar Zalmi,Wahab Riaz,Bowler,30y 177d,Right hand Bat,Left arm Fast
+66,2015/2016,Peshawar Zalmi,Chris Jordan,Bowler,27y 79d,Right hand Bat,Right arm Fast medium
+67,2015/2016,Quetta Gladiators,Sarfaraz Ahmed† (c),Wicketkeeper Batter,28y 214d,Right hand Bat,Right arm Offbreak
+68,2015/2016,Quetta Gladiators,Ahmed Shehzad,Opening Batter,24y 29d,Right hand Bat,Legbreak
+69,2015/2016,Quetta Gladiators,Akbar-ur-Rehman,Allrounder,32y 99d,Right hand Bat,Legbreak Googly
+70,2015/2016,Quetta Gladiators,Anwar Ali,Bowler,28y 27d,Right hand Bat,Right arm Medium fast
+71,2015/2016,Quetta Gladiators,Asad Shafiq,Middle order Batter,29y 328d,Right hand Bat,Right arm Offbreak
+72,2015/2016,Quetta Gladiators,Bilal Asif,Allrounder,30y 89d,Right hand Bat,Right arm Offbreak
+73,2015/2016,Quetta Gladiators,Bismillah Khan†,Wicketkeeper Batter,25y 296d,Right hand Bat,
+74,2015/2016,Quetta Gladiators,Elton Chigumbura,Allrounder,29y 283d,Right hand Bat,Right arm Fast medium
+75,2015/2016,Quetta Gladiators,Mohammad Nabi,Allrounder,30y 355d,Right hand Bat,Right arm Offbreak
+76,2015/2016,Quetta Gladiators,Mohammad Nawaz,Allrounder,21y 276d,Left hand Bat,Slow Left arm Orthodox
+77,2015/2016,Quetta Gladiators,Kevin Pietersen,Top order Batter,35y 178d,Right hand Bat,Right arm Offbreak
+78,2015/2016,Quetta Gladiators,Saad Nasim,Allrounder,25y 237d,Right hand Bat,Legbreak
+79,2015/2016,Quetta Gladiators,Umar Gul,Bowler,33y 68d,Right hand Bat,Right arm Fast medium
+80,2015/2016,Quetta Gladiators,Luke Wright,Top order Batter,30y 290d,Right hand Bat,Right arm Medium
+81,2015/2016,Quetta Gladiators,Zulfiqar Babar,Bowler,37y 12d,Right hand Bat,Slow Left arm Orthodox
+82,2015/2016,Quetta Gladiators,Jason Holder,Bowling Allrounder,24y 47d,Right hand Bat,Right arm Medium fast
+0,2016/2017,Islamabad United,Misbah-ul-Haq(c),Middle order Batter,42y 240d,Right hand Bat,Legbreak
+1,2016/2017,Islamabad United,Amad Butt,Bowling Allrounder,21y 258d,Right hand Bat,Right arm Fast
+2,2016/2017,Islamabad United,Asif Ali,Middle order Batter,25y 114d,Right hand Bat,Right arm Offbreak
+3,2016/2017,Islamabad United,Samuel Badree,Bowler,35y 320d,Right hand Bat,Legbreak
+4,2016/2017,Islamabad United,Sam Billings†,Wicketkeeper Batter,25y 222d,Right hand Bat,
+5,2016/2017,Islamabad United,Ben Duckett,Top order Batter,22y 98d,Left hand Bat,Right arm Offbreak
+6,2016/2017,Islamabad United,Steven Finn,Bowler,27y 294d,Right hand Bat,Right arm Fast medium
+7,2016/2017,Islamabad United,Brad Haddin†,Wicketkeeper Batter,39y 92d,Right hand Bat,
+8,2016/2017,Islamabad United,Hussain Talat,Allrounder,20y 346d,Left hand Bat,Right arm Medium fast
+9,2016/2017,Islamabad United,Imran Khalid,,34y 25d,Left hand Bat,Slow Left arm Orthodox
+10,2016/2017,Islamabad United,Khalid Latif,Top order Batter,31y 80d,Right hand Bat,Right arm Offbreak
+11,2016/2017,Islamabad United,Mohammad Irfan,Bowler,34y 231d,Right hand Bat,Left arm Fast
+12,2016/2017,Islamabad United,Mohammad Sami,Bowler,35y 334d,Right hand Bat,Right arm Fast
+13,2016/2017,Islamabad United,Nicholas Pooran†,Wicketkeeper Batter,21y 113d,Left hand Bat,Right arm Offbreak
+14,2016/2017,Islamabad United,Rumman Raees,Bowler,25y 97d,Right hand Bat,Left arm Medium fast
+15,2016/2017,Islamabad United,Saeed Ajmal,Bowler,39y 101d,Right hand Bat,Right arm Offbreak
+16,2016/2017,Islamabad United,Shadab Khan,Allrounder,18y 111d,Right hand Bat,Legbreak
+17,2016/2017,Islamabad United,Sharjeel Khan,Opening Batter,27y 162d,Left hand Bat,Legbreak
+18,2016/2017,Islamabad United,Dwayne Smith,Allrounder,33y 286d,Right hand Bat,Right arm Medium
+19,2016/2017,Islamabad United,Shane Watson,Allrounder,35y 220d,Right hand Bat,Right arm Fast medium
+20,2016/2017,Islamabad United,Zohaib Khan,Allrounder,32y 309d,Right hand Bat,Slow Left arm Orthodox
+21,2016/2017,Karachi Kings,Kumar Sangakkara(c),Wicketkeeper Batter,39y 88d,Left hand Bat,Right arm Offbreak
+22,2016/2017,Karachi Kings,Abrar Ahmed,Bowler,18y 99d,Right hand Bat,Legbreak Googly
+23,2016/2017,Karachi Kings,Babar Azam,Batter,22y 100d,Right hand Bat,Right arm Offbreak
+24,2016/2017,Karachi Kings,Ravi Bopara,Batting Allrounder,31y 264d,Right hand Bat,Right arm Medium
+25,2016/2017,Karachi Kings,Chris Gayle,Allrounder,37y 124d,Left hand Bat,Right arm Offbreak
+26,2016/2017,Karachi Kings,Hasan Mohsin,Middle order Batter,19y 12d,Right hand Bat,Right arm Medium
+27,2016/2017,Karachi Kings,Imad Wasim,Allrounder,28y 36d,Left hand Bat,Slow Left arm Orthodox
+28,2016/2017,Karachi Kings,Mahela Jayawardene,Batter,39y 241d,Right hand Bat,Right arm Medium
+29,2016/2017,Karachi Kings,Kashif Bhatti,Allrounder,30y 182d,Right hand Bat,Slow Left arm Orthodox
+30,2016/2017,Karachi Kings,Khurram Manzoor,Opening Batter,30y 227d,Right hand Bat,Right arm Offbreak
+31,2016/2017,Karachi Kings,Ryan McLaren,Allrounder,33y 349d,Left hand Bat,Right arm Medium fast
+32,2016/2017,Karachi Kings,Mohammad Amir,Bowler,24y 285d,Left hand Bat,Left arm Fast medium
+33,2016/2017,Karachi Kings,Kieron Pollard,Batting Allrounder,29y 256d,Right hand Bat,Right arm Medium
+34,2016/2017,Karachi Kings,Rahat Ali,Bowler,28y 133d,Right hand Bat,Left arm Fast medium
+35,2016/2017,Karachi Kings,Saifullah Bangash†,Wicketkeeper Batter,21y 308d,Right hand Bat,
+36,2016/2017,Karachi Kings,Shahzaib Hasan,Opening Batter,27y 29d,Right hand Bat,Right arm Offbreak
+37,2016/2017,Karachi Kings,Shoaib Malik,Allrounder,34y 357d,Right hand Bat,Right arm Offbreak
+38,2016/2017,Karachi Kings,Sohail Khan,Bowler,32y 323d,Right hand Bat,Right arm Fast medium
+39,2016/2017,Karachi Kings,Usama Mir,Bowler,21y 31d,Right hand Bat,Legbreak
+40,2016/2017,Karachi Kings,Usman Shinwari,Bowler,23y 18d,Right hand Bat,Left arm Medium fast
+41,2016/2017,Lahore Qalandars,Brendon McCullum(c),Wicketkeeper Batter,35y 118d,Right hand Bat,"Right arm Medium, Right arm Offbreak"
+42,2016/2017,Lahore Qalandars,Aamer Yamin,Allrounder,26y 211d,Right hand Bat,Right arm Medium
+43,2016/2017,Lahore Qalandars,Azhar Ali,Top order Batter,31y 339d,Right hand Bat,Legbreak
+44,2016/2017,Lahore Qalandars,Bilawal Bhatti,Bowler,25y 128d,Right hand Bat,Right arm Medium fast
+45,2016/2017,Lahore Qalandars,Cameron Delport,Top order Batter,27y 256d,Left hand Bat,Right arm Medium
+46,2016/2017,Lahore Qalandars,Grant Elliott,Allrounder,37y 308d,Right hand Bat,Right arm Medium
+47,2016/2017,Lahore Qalandars,Fakhar Zaman,Opening Batter,26y 288d,Left hand Bat,Slow Left arm Orthodox
+48,2016/2017,Lahore Qalandars,James Franklin,Allrounder,36y 77d,Left hand Bat,Left arm Medium
+49,2016/2017,Lahore Qalandars,Ghulam Mudassar,Bowler,17y 91d,Right hand Bat,Left arm Fast medium
+50,2016/2017,Lahore Qalandars,Chris Green,Bowling Allrounder,23y 114d,Right hand Bat,Right arm Offbreak
+51,2016/2017,Lahore Qalandars,Mohammad Irfan,Bowler,21y 253d,Right hand Bat,Right arm Medium
+52,2016/2017,Lahore Qalandars,Mohammad Rizwan†,Wicketkeeper Batter,24y 236d,Right hand Bat,
+53,2016/2017,Lahore Qalandars,Sunil Narine,Bowling Allrounder,28y 242d,Left hand Bat,Right arm Offbreak
+54,2016/2017,Lahore Qalandars,Jason Roy,Opening Batter,26y 186d,Right hand Bat,
+55,2016/2017,Lahore Qalandars,Saif Badar,Middle order Batter,18y 204d,Right hand Bat,Legbreak Googly
+56,2016/2017,Lahore Qalandars,Sohail Tanvir,Bowler,32y 42d,Left hand Bat,Left arm Medium fast
+57,2016/2017,Lahore Qalandars,Umar Akmal,Middle order Batter,26y 242d,Right hand Bat,Right arm Offbreak
+58,2016/2017,Lahore Qalandars,Usman Qadir,Bowler,23y 166d,Left hand Bat,Legbreak
+59,2016/2017,Lahore Qalandars,Yasir Shah,Bowler,30y 266d,Right hand Bat,Legbreak Googly
+60,2016/2017,Lahore Qalandars,Zafar Gohar,Bowler,21y 357d,Left hand Bat,Slow Left arm Orthodox
+61,2016/2017,Peshawar Zalmi,Daren Sammy(c),Allrounder,33y 34d,Right hand Bat,Right arm Medium
+62,2016/2017,Peshawar Zalmi,Tillakaratne Dilshan,Allrounder,40y 101d,Right hand Bat,Right arm Offbreak
+63,2016/2017,Peshawar Zalmi,Andre Fletcher,Top order Batter,29y 56d,Right hand Bat,"Right arm Medium fast, Legbreak"
+64,2016/2017,Peshawar Zalmi,Haris Sohail,Middle order Batter,28y 14d,Left hand Bat,Slow Left arm Orthodox
+65,2016/2017,Peshawar Zalmi,Hasan Ali,Bowler,22y 205d,Right hand Bat,Right arm Medium fast
+66,2016/2017,Peshawar Zalmi,Iftikhar Ahmed,Middle order Batter,26y 142d,Right hand Bat,Right arm Offbreak
+67,2016/2017,Peshawar Zalmi,Imran Khan,Bowler,28y 193d,Right hand Bat,Left arm Medium fast
+68,2016/2017,Peshawar Zalmi,Chris Jordan,Bowler,28y 111d,Right hand Bat,Right arm Fast medium
+69,2016/2017,Peshawar Zalmi,Junaid Khan,Bowler,27y 30d,Right hand Bat,Left arm Fast
+70,2016/2017,Peshawar Zalmi,Kamran Akmal†,Wicketkeeper Batter,35y 10d,Right hand Bat,
+71,2016/2017,Peshawar Zalmi,Khushdil Shah,Middle order Batter,21y 351d,Left hand Bat,Slow Left arm Orthodox
+72,2016/2017,Peshawar Zalmi,Mohammad Asghar,Bowler,18y 26d,Right hand Bat,Slow Left arm Orthodox
+73,2016/2017,Peshawar Zalmi,Mohammad Hafeez,Allrounder,36y 98d,Right hand Bat,Right arm Offbreak
+74,2016/2017,Peshawar Zalmi,Eoin Morgan,Middle order Batter,30y 135d,Left hand Bat,Right arm Medium
+75,2016/2017,Peshawar Zalmi,Samit Patel,Allrounder,32y 54d,Right hand Bat,Slow Left arm Orthodox
+76,2016/2017,Peshawar Zalmi,Marlon Samuels,Top order Batter,35y 353d,Right hand Bat,Right arm Offbreak
+77,2016/2017,Peshawar Zalmi,Shahid Afridi,Allrounder,36y 328d,Right hand Bat,Legbreak Googly
+78,2016/2017,Peshawar Zalmi,Shakib Al Hasan,Allrounder,29y 305d,Left hand Bat,Slow Left arm Orthodox
+79,2016/2017,Peshawar Zalmi,Sohaib Maqsood,Middle order Batter,29y 283d,Right hand Bat,Right arm Offbreak
+80,2016/2017,Peshawar Zalmi,Tamim Iqbal,Opening Batter,27y 309d,Left hand Bat,
+81,2016/2017,Peshawar Zalmi,Wahab Riaz,Bowler,31y 209d,Right hand Bat,Left arm Fast
+82,2016/2017,Quetta Gladiators,Sarfaraz Ahmed(c),Wicketkeeper Batter,29y 246d,Right hand Bat,Right arm Offbreak
+83,2016/2017,Quetta Gladiators,Ahmed Shehzad,Opening Batter,25y 61d,Right hand Bat,Legbreak
+84,2016/2017,Quetta Gladiators,Anwar Ali,Bowler,29y 59d,Right hand Bat,Right arm Medium fast
+85,2016/2017,Quetta Gladiators,Asad Shafiq,Middle order Batter,30y 361d,Right hand Bat,Right arm Offbreak
+86,2016/2017,Quetta Gladiators,Bismillah Khan†,Wicketkeeper Batter,26y 328d,Right hand Bat,
+87,2016/2017,Quetta Gladiators,Hassan Khan,Bowler,18y 99d,Right hand Bat,Slow Left arm Orthodox
+88,2016/2017,Quetta Gladiators,Mahmudullah,Allrounder,30y 354d,Right hand Bat,Right arm Offbreak
+89,2016/2017,Quetta Gladiators,Nathan McCullum,Bowler,36y 144d,Right hand Bat,Right arm Offbreak
+90,2016/2017,Quetta Gladiators,Tymal Mills,Bowler,24y 164d,Right hand Bat,Left arm Fast
+91,2016/2017,Quetta Gladiators,Mir Hamza,Bowler,24y 135d,Left hand Bat,Left arm Medium
+92,2016/2017,Quetta Gladiators,Mohammad Nawaz,Allrounder,22y 308d,Left hand Bat,Slow Left arm Orthodox
+93,2016/2017,Quetta Gladiators,Noor Wali,,20y 148d,Right hand Bat,Right arm Medium
+94,2016/2017,Quetta Gladiators,Thisara Perera,Bowling Allrounder,27y 295d,Left hand Bat,Right arm Medium fast
+95,2016/2017,Quetta Gladiators,Kevin Pietersen,Top order Batter,36y 210d,Right hand Bat,Right arm Offbreak
+96,2016/2017,Quetta Gladiators,Rilee Rossouw,Top order Batter,27y 106d,Left hand Bat,Right arm Offbreak
+97,2016/2017,Quetta Gladiators,Saad Nasim,Allrounder,26y 269d,Right hand Bat,Legbreak
+98,2016/2017,Quetta Gladiators,Umar Amin,Top order Batter,27y 99d,Left hand Bat,Right arm Medium
+99,2016/2017,Quetta Gladiators,Umar Gul,Bowler,34y 100d,Right hand Bat,Right arm Fast medium
+100,2016/2017,Quetta Gladiators,Luke Wright,Top order Batter,31y 322d,Right hand Bat,Right arm Medium
+101,2016/2017,Quetta Gladiators,Zulfiqar Babar,Bowler,38y 44d,Right hand Bat,Slow Left arm Orthodox
+0,2017/2018,Islamabad United,Misbah-ul-Haq(c),Middle order Batter,43y 268d,Right hand Bat,Legbreak
+1,2017/2018,Islamabad United,Amad Butt,Bowling Allrounder,22y 286d,Right hand Bat,Right arm Fast
+2,2017/2018,Islamabad United,Asif Ali,Middle order Batter,26y 142d,Right hand Bat,Right arm Offbreak
+3,2017/2018,Islamabad United,Samuel Badree,Bowler,36y 348d,Right hand Bat,Legbreak
+4,2017/2018,Islamabad United,Sam Billings†,Wicketkeeper Batter,26y 250d,Right hand Bat,
+5,2017/2018,Islamabad United,Jean-Paul Duminy,Batting Allrounder,33y 312d,Left hand Bat,Right arm Offbreak
+6,2017/2018,Islamabad United,Faheem Ashraf,Bowling Allrounder,24y 35d,Left hand Bat,Right arm Medium
+7,2017/2018,Islamabad United,Steven Finn,Bowler,28y 322d,Right hand Bat,Right arm Fast medium
+8,2017/2018,Islamabad United,Alex Hales,Opening Batter,29y 48d,Right hand Bat,Right arm Medium
+9,2017/2018,Islamabad United,Hussain Talat,Allrounder,22y 8d,Left hand Bat,Right arm Medium fast
+10,2017/2018,Islamabad United,Iftikhar Ahmed,Middle order Batter,27y 170d,Right hand Bat,Right arm Offbreak
+11,2017/2018,Islamabad United,Mohammad Hasan,Middle order Batter,27y 139d,Right hand Bat,
+12,2017/2018,Islamabad United,Mohammad Sami,Bowler,36y 361d,Right hand Bat,Right arm Fast
+13,2017/2018,Islamabad United,Samit Patel,Allrounder,33y 82d,Right hand Bat,Slow Left arm Orthodox
+14,2017/2018,Islamabad United,Rohail Nazir†,Wicketkeeper Batter,16y 133d,Right hand Bat,
+15,2017/2018,Islamabad United,Luke Ronchi†,Wicketkeeper Batter,36y 303d,Right hand Bat,
+16,2017/2018,Islamabad United,Rumman Raees,Bowler,26y 125d,Right hand Bat,Left arm Medium fast
+17,2017/2018,Islamabad United,Andre Russell,Allrounder,29y 297d,Right hand Bat,Right arm Fast
+18,2017/2018,Islamabad United,Sahibzada Farhan,Middle order Batter,21y 351d,Right hand Bat,
+19,2017/2018,Islamabad United,Shadab Khan,Allrounder,19y 139d,Right hand Bat,Legbreak
+20,2017/2018,Islamabad United,Chadwick Walton,Top order Batter,32y 232d,Right hand Bat,
+21,2017/2018,Islamabad United,Zafar Gohar,Bowler,23y 19d,Left hand Bat,Slow Left arm Orthodox
+22,2017/2018,Karachi Kings,Babar Azam,Batter,23y 128d,Right hand Bat,Right arm Offbreak
+23,2017/2018,Karachi Kings,Ravi Bopara,Batting Allrounder,32y 292d,Right hand Bat,Right arm Medium
+24,2017/2018,Karachi Kings,Joe Denly,Top order Batter,31y 341d,Right hand Bat,Legbreak
+25,2017/2018,Karachi Kings,Hasan Mohsin,Middle order Batter,20y 40d,Right hand Bat,Right arm Medium
+26,2017/2018,Karachi Kings,Imad Wasim,Allrounder,29y 64d,Left hand Bat,Slow Left arm Orthodox
+27,2017/2018,Karachi Kings,Colin Ingram,Top order Batter,32y 232d,Left hand Bat,Legbreak
+28,2017/2018,Karachi Kings,Khurram Manzoor,Opening Batter,31y 255d,Right hand Bat,Right arm Offbreak
+29,2017/2018,Karachi Kings,Tymal Mills,Bowler,25y 192d,Right hand Bat,Left arm Fast
+30,2017/2018,Karachi Kings,Mohammad Amir,Bowler,25y 313d,Left hand Bat,Left arm Fast medium
+31,2017/2018,Karachi Kings,Mohammad Irfan,Bowler,22y 281d,Right hand Bat,Right arm Medium
+32,2017/2018,Karachi Kings,Mohammad Rizwan†,Wicketkeeper Batter,25y 264d,Right hand Bat,
+33,2017/2018,Karachi Kings,Mohammad Taha,Allrounder,17y 286d,Left hand Bat,Slow Left arm Orthodox
+34,2017/2018,Karachi Kings,Eoin Morgan,Middle order Batter,31y 163d,Left hand Bat,Right arm Medium
+35,2017/2018,Karachi Kings,Saifullah Bangash†,Wicketkeeper Batter,22y 336d,Right hand Bat,
+36,2017/2018,Karachi Kings,Shahid Afridi,Allrounder,37y 356d,Right hand Bat,Legbreak Googly
+37,2017/2018,Karachi Kings,Lendl Simmons,Top order Batter,33y 26d,Right hand Bat,Right arm Medium fast
+38,2017/2018,Karachi Kings,Tabish Khan,Bowler,33y 70d,Right hand Bat,Right arm Fast medium
+39,2017/2018,Karachi Kings,Usama Mir,Bowler,22y 59d,Right hand Bat,Legbreak
+40,2017/2018,Karachi Kings,Usman Shinwari,Bowler,24y 46d,Right hand Bat,Left arm Medium fast
+41,2017/2018,Karachi Kings,David Wiese,Allrounder,32y 278d,Right hand Bat,Right arm Medium fast
+42,2017/2018,Lahore Qalandars,Brendon McCullum(c),Wicketkeeper Batter,36y 146d,Right hand Bat,"Right arm Medium, Right arm Offbreak"
+43,2017/2018,Lahore Qalandars,Aamer Yamin,Allrounder,27y 239d,Right hand Bat,Right arm Medium
+44,2017/2018,Lahore Qalandars,Bilal Asif,Allrounder,32y 149d,Right hand Bat,Right arm Offbreak
+45,2017/2018,Lahore Qalandars,Bilawal Bhatti,Bowler,26y 156d,Right hand Bat,Right arm Medium fast
+46,2017/2018,Lahore Qalandars,Cameron Delport,Top order Batter,28y 284d,Left hand Bat,Right arm Medium
+47,2017/2018,Lahore Qalandars,Anton Devcich,Opening Batter,32y 145d,Left hand Bat,Slow Left arm Orthodox
+48,2017/2018,Lahore Qalandars,Fakhar Zaman,Opening Batter,27y 316d,Left hand Bat,Slow Left arm Orthodox
+49,2017/2018,Lahore Qalandars,Ghulam Mudassar,Bowler,18y 119d,Right hand Bat,Left arm Fast medium
+50,2017/2018,Lahore Qalandars,Gulraiz Sadaf,Middle order Batter,28y 55d,Right hand Bat,
+51,2017/2018,Lahore Qalandars,Imran Khan,Bowler,29y 221d,Right hand Bat,Left arm Medium fast
+52,2017/2018,Lahore Qalandars,Chris Lynn,Batter,27y 316d,Right hand Bat,Slow Left arm Orthodox
+53,2017/2018,Lahore Qalandars,Mitchell McClenaghan,Bowler,31y 254d,Left hand Bat,Left arm Fast medium
+54,2017/2018,Lahore Qalandars,Mustafizur Rahman,Bowler,22y 167d,Left hand Bat,Left arm Fast medium
+55,2017/2018,Lahore Qalandars,Sunil Narine,Bowling Allrounder,29y 270d,Left hand Bat,Right arm Offbreak
+56,2017/2018,Lahore Qalandars,Denesh Ramdin†,Wicketkeeper Batter,32y 344d,Right hand Bat,
+57,2017/2018,Lahore Qalandars,Raza Hasan,Bowler,25y 227d,Right hand Bat,Slow Left arm Orthodox
+58,2017/2018,Lahore Qalandars,Salman Irshad,Bowler,22y 79d,Right hand Bat,Right arm Fast medium
+59,2017/2018,Lahore Qalandars,Shaheen Shah Afridi,Bowler,17y 320d,Left hand Bat,Left arm Fast
+60,2017/2018,Lahore Qalandars,Sohail Akhtar,Allrounder,31y 355d,Right hand Bat,Right arm Medium
+61,2017/2018,Lahore Qalandars,Sohail Khan,Bowler,33y 351d,Right hand Bat,Right arm Fast medium
+62,2017/2018,Lahore Qalandars,Umar Akmal,Middle order Batter,27y 270d,Right hand Bat,Right arm Offbreak
+63,2017/2018,Lahore Qalandars,Yasir Shah,Bowler,31y 294d,Right hand Bat,Legbreak Googly
+64,2017/2018,Peshawar Zalmi,Daren Sammy(c),Allrounder,34y 62d,Right hand Bat,Right arm Medium
+65,2017/2018,Peshawar Zalmi,Dwayne Bravo,Allrounder,34y 136d,Right hand Bat,Right arm Medium
+66,2017/2018,Peshawar Zalmi,Liam Dawson,Allrounder,27y 356d,Right hand Bat,Slow Left arm Orthodox
+67,2017/2018,Peshawar Zalmi,Andre Fletcher,Top order Batter,30y 84d,Right hand Bat,"Right arm Medium fast, Legbreak"
+68,2017/2018,Peshawar Zalmi,Hammad Azam,Middle order Batter,26y 341d,Right hand Bat,Right arm Medium
+69,2017/2018,Peshawar Zalmi,Haris Sohail,Middle order Batter,29y 42d,Left hand Bat,Slow Left arm Orthodox
+70,2017/2018,Peshawar Zalmi,Hasan Ali,Bowler,23y 233d,Right hand Bat,Right arm Medium fast
+71,2017/2018,Peshawar Zalmi,Ibtisam Sheikh,Bowler,19y 341d,Left hand Bat,Legbreak Googly
+72,2017/2018,Peshawar Zalmi,Chris Jordan,Bowler,29y 139d,Right hand Bat,Right arm Fast medium
+73,2017/2018,Peshawar Zalmi,Kamran Akmal†,Wicketkeeper Batter,36y 38d,Right hand Bat,
+74,2017/2018,Peshawar Zalmi,Khalid Usman,Bowling Allrounder,31y 356d,Right hand Bat,Slow Left arm Orthodox
+75,2017/2018,Peshawar Zalmi,Khushdil Shah,Middle order Batter,23y 13d,Left hand Bat,Slow Left arm Orthodox
+76,2017/2018,Peshawar Zalmi,Li Jian,,25y 232d,Right hand Bat,Right arm Medium fast
+77,2017/2018,Peshawar Zalmi,Mohammad Arif,Opening Batter,24y 49d,Right hand Bat,
+78,2017/2018,Peshawar Zalmi,Mohammad Asghar,Bowler,19y 54d,Right hand Bat,Slow Left arm Orthodox
+79,2017/2018,Peshawar Zalmi,Mohammad Hafeez,Allrounder,37y 126d,Right hand Bat,Right arm Offbreak
+80,2017/2018,Peshawar Zalmi,Saad Nasim,Allrounder,27y 297d,Right hand Bat,Legbreak
+81,2017/2018,Peshawar Zalmi,Sabbir Rahman,Middle order Batter,26y 90d,Right hand Bat,Legbreak
+82,2017/2018,Peshawar Zalmi,Sameen Gul,Bowler,19y 16d,Right hand Bat,Right arm Medium
+83,2017/2018,Peshawar Zalmi,Dwayne Smith,Allrounder,34y 314d,Right hand Bat,Right arm Medium
+84,2017/2018,Peshawar Zalmi,Taimoor Sultan,Opening Batter,23y 78d,Right hand Bat,
+85,2017/2018,Peshawar Zalmi,Tamim Iqbal,Opening Batter,28y 337d,Left hand Bat,
+86,2017/2018,Peshawar Zalmi,Umaid Asif,Bowling Allrounder,33y 296d,Right hand Bat,Right arm Medium fast
+87,2017/2018,Peshawar Zalmi,Wahab Riaz,Bowler,32y 237d,Right hand Bat,Left arm Fast
+88,2017/2018,Peshawar Zalmi,Riki Wessels,Middle order Batter,32y 100d,Right hand Bat,
+89,2017/2018,Peshawar Zalmi,Zhang Yufei,Allrounder,26y 34d,Right hand Bat,Right arm Medium fast
+90,2017/2018,Peshawar Zalmi,Shakib Al Hasan,Allrounder,30y 333d,Left hand Bat,Slow Left arm Orthodox
+91,2017/2018,Quetta Gladiators,Sarfaraz Ahmed(c),Wicketkeeper Batter,30y 274d,Right hand Bat,Right arm Offbreak
+92,2017/2018,Quetta Gladiators,Anwar Ali,Bowler,30y 87d,Right hand Bat,Right arm Medium fast
+93,2017/2018,Quetta Gladiators,Jofra Archer,Bowler,22y 325d,Right hand Bat,Right arm Fast
+94,2017/2018,Quetta Gladiators,Asad Shafiq,Middle order Batter,32y 23d,Right hand Bat,Right arm Offbreak
+95,2017/2018,Quetta Gladiators,Azam Khan†,Wicketkeeper,19y 194d,Right hand Bat,
+96,2017/2018,Quetta Gladiators,Faraz Ahmed,Bowler,33y 149d,Right hand Bat,Right arm Medium fast
+97,2017/2018,Quetta Gladiators,Hassan Khan,Bowler,19y 127d,Right hand Bat,Slow Left arm Orthodox
+98,2017/2018,Quetta Gladiators,Mahmudullah,Allrounder,32y 16d,Right hand Bat,Right arm Offbreak
+99,2017/2018,Quetta Gladiators,Mir Hamza,Bowler,25y 163d,Left hand Bat,Left arm Medium
+100,2017/2018,Quetta Gladiators,Mohammad Nawaz,Allrounder,23y 336d,Left hand Bat,Slow Left arm Orthodox
+101,2017/2018,Quetta Gladiators,Kevin Pietersen,Top order Batter,37y 238d,Right hand Bat,Right arm Offbreak
+102,2017/2018,Quetta Gladiators,Rahat Ali,Bowler,29y 161d,Right hand Bat,Left arm Fast medium
+103,2017/2018,Quetta Gladiators,Rashid Khan,Bowling Allrounder,19y 153d,Right hand Bat,Legbreak Googly
+104,2017/2018,Quetta Gladiators,Rilee Rossouw,Top order Batter,28y 134d,Left hand Bat,Right arm Offbreak
+105,2017/2018,Quetta Gladiators,Jason Roy,Opening Batter,27y 214d,Right hand Bat,
+106,2017/2018,Quetta Gladiators,Syed Saad Ali,Top order Batter,24y 138d,Left hand Bat,Right arm Medium
+107,2017/2018,Quetta Gladiators,Saud Shakeel,Middle order Batter,22y 168d,Left hand Bat,Left arm Slow
+108,2017/2018,Quetta Gladiators,Umar Amin,Top order Batter,28y 127d,Left hand Bat,Right arm Medium
+109,2017/2018,Quetta Gladiators,Shane Watson,Allrounder,36y 248d,Right hand Bat,Right arm Fast medium
+110,2017/2018,Multan Sultans,Sarfaraz Ahmed(c),Wicketkeeper Batter,30y 274d,Right hand Bat,Right arm Offbreak
+111,2017/2018,Multan Sultans,Anwar Ali,Bowler,30y 87d,Right hand Bat,Right arm Medium fast
+112,2017/2018,Multan Sultans,Jofra Archer,Bowler,22y 325d,Right hand Bat,Right arm Fast
+113,2017/2018,Multan Sultans,Asad Shafiq,Middle order Batter,32y 23d,Right hand Bat,Right arm Offbreak
+114,2017/2018,Multan Sultans,Azam Khan†,Wicketkeeper,19y 194d,Right hand Bat,
+115,2017/2018,Multan Sultans,Faraz Ahmed,Bowler,33y 149d,Right hand Bat,Right arm Medium fast
+116,2017/2018,Multan Sultans,Hassan Khan,Bowler,19y 127d,Right hand Bat,Slow Left arm Orthodox
+117,2017/2018,Multan Sultans,Mahmudullah,Allrounder,32y 16d,Right hand Bat,Right arm Offbreak
+118,2017/2018,Multan Sultans,Mir Hamza,Bowler,25y 163d,Left hand Bat,Left arm Medium
+119,2017/2018,Multan Sultans,Mohammad Nawaz,Allrounder,23y 336d,Left hand Bat,Slow Left arm Orthodox
+120,2017/2018,Multan Sultans,Kevin Pietersen,Top order Batter,37y 238d,Right hand Bat,Right arm Offbreak
+121,2017/2018,Multan Sultans,Rahat Ali,Bowler,29y 161d,Right hand Bat,Left arm Fast medium
+122,2017/2018,Multan Sultans,Rashid Khan,Bowling Allrounder,19y 153d,Right hand Bat,Legbreak Googly
+123,2017/2018,Multan Sultans,Rilee Rossouw,Top order Batter,28y 134d,Left hand Bat,Right arm Offbreak
+124,2017/2018,Multan Sultans,Jason Roy,Opening Batter,27y 214d,Right hand Bat,
+125,2017/2018,Multan Sultans,Syed Saad Ali,Top order Batter,24y 138d,Left hand Bat,Right arm Medium
+126,2017/2018,Multan Sultans,Saud Shakeel,Middle order Batter,22y 168d,Left hand Bat,Left arm Slow
+127,2017/2018,Multan Sultans,Umar Amin,Top order Batter,28y 127d,Left hand Bat,Right arm Medium
+128,2017/2018,Multan Sultans,Shane Watson,Allrounder,36y 248d,Right hand Bat,Right arm Fast medium
+0,2018/2019,Islamabad United,Mohammad Sami(c),Bowler,37y 334d,Right hand Bat,Right arm Fast
+1,2018/2019,Islamabad United,Amad Butt,Bowling Allrounder,23y 259d,Right hand Bat,Right arm Fast
+2,2018/2019,Islamabad United,Asif Ali,Middle order Batter,27y 115d,Right hand Bat,Right arm Offbreak
+3,2018/2019,Islamabad United,Ian Bell,Top order Batter,36y 288d,Right hand Bat,Right arm Medium
+4,2018/2019,Islamabad United,Cameron Delport,Top order Batter,29y 257d,Left hand Bat,Right arm Medium
+5,2018/2019,Islamabad United,Faheem Ashraf,Bowling Allrounder,25y 8d,Left hand Bat,Right arm Medium
+6,2018/2019,Islamabad United,Hussain Talat,Allrounder,22y 346d,Left hand Bat,Right arm Medium fast
+7,2018/2019,Islamabad United,Muhammad Musa,Bowler,18y 149d,Right hand Bat,Right arm Fast medium
+8,2018/2019,Islamabad United,Nasir Nawaz,,20y 111d,Right hand Bat,Right arm Medium fast
+9,2018/2019,Islamabad United,Wayne Parnell,Bowler,29y 178d,Left hand Bat,Left arm Medium fast
+10,2018/2019,Islamabad United,Samit Patel,Allrounder,34y 55d,Right hand Bat,Slow Left arm Orthodox
+11,2018/2019,Islamabad United,Rizwan Hussain,Batter,22y 273d,Left hand Bat,
+12,2018/2019,Islamabad United,Luke Ronchi†,Wicketkeeper Batter,37y 276d,Right hand Bat,
+13,2018/2019,Islamabad United,Rumman Raees,Bowler,27y 98d,Right hand Bat,Left arm Medium fast
+14,2018/2019,Islamabad United,Sahibzada Farhan,Middle order Batter,22y 324d,Right hand Bat,
+15,2018/2019,Islamabad United,Phil Salt†,Wicketkeeper Batter,22y 149d,Right hand Bat,Right arm Offbreak
+16,2018/2019,Islamabad United,Shadab Khan,Allrounder,20y 112d,Right hand Bat,Legbreak
+17,2018/2019,Islamabad United,Waqas Maqsood,Bowler,31y 81d,Left hand Bat,Left arm Fast medium
+18,2018/2019,Islamabad United,Zafar Gohar,Bowler,23y 357d,Left hand Bat,Slow Left arm Orthodox
+19,2018/2019,Islamabad United,Zahir Khan,Bowler,20y 35d,Left hand Bat,Left arm Wrist spin
+20,2018/2019,Karachi Kings,Imad Wasim(c),Allrounder,30y 37d,Left hand Bat,Slow Left arm Orthodox
+21,2018/2019,Karachi Kings,Aamer Yamin,Allrounder,28y 212d,Right hand Bat,Right arm Medium
+22,2018/2019,Karachi Kings,Abrar Ahmed,Bowler,20y 100d,Right hand Bat,Legbreak Googly
+23,2018/2019,Karachi Kings,Ali Imran,Batting Allrounder,20y 333d,Right hand Bat,Right arm Medium
+24,2018/2019,Karachi Kings,Awais Zia,Opening Batter,32y 145d,Left hand Bat,Right arm Offbreak
+25,2018/2019,Karachi Kings,Babar Azam,Batter,24y 101d,Right hand Bat,Right arm Offbreak
+26,2018/2019,Karachi Kings,Ravi Bopara,Batting Allrounder,33y 265d,Right hand Bat,Right arm Medium
+27,2018/2019,Karachi Kings,Ben Dunk†,Wicketkeeper Batter,31y 319d,Left hand Bat,Right arm Offbreak
+28,2018/2019,Karachi Kings,Iftikhar Ahmed,Middle order Batter,28y 143d,Right hand Bat,Right arm Offbreak
+29,2018/2019,Karachi Kings,Colin Ingram,Top order Batter,33y 205d,Left hand Bat,Legbreak
+30,2018/2019,Karachi Kings,Jaahid Ali,,23y 325d,Right hand Bat,Right arm Offbreak
+31,2018/2019,Karachi Kings,Liam Livingstone,Batting Allrounder,25y 173d,Right hand Bat,Legbreak
+32,2018/2019,Karachi Kings,Mohammad Amir,Bowler,26y 286d,Left hand Bat,Left arm Fast medium
+33,2018/2019,Karachi Kings,Mohammad Rizwan†,Wicketkeeper Batter,26y 237d,Right hand Bat,
+34,2018/2019,Karachi Kings,Colin Munro,Opening Batter,31y 319d,Left hand Bat,Right arm Medium fast
+35,2018/2019,Karachi Kings,Sikandar Raza,Batting Allrounder,32y 275d,Right hand Bat,Right arm Offbreak
+36,2018/2019,Karachi Kings,Sohail Khan,Bowler,34y 324d,Right hand Bat,Right arm Fast medium
+37,2018/2019,Karachi Kings,Aaron Summers,,22y 245d,Right hand Bat,Right arm Fast
+38,2018/2019,Karachi Kings,Umer Khan,Bowler,19y 172d,Left hand Bat,Slow Left arm Orthodox
+39,2018/2019,Karachi Kings,Usama Mir,Bowler,23y 32d,Right hand Bat,Legbreak
+40,2018/2019,Karachi Kings,Usman Shinwari,Bowler,25y 19d,Right hand Bat,Left arm Medium fast
+41,2018/2019,Lahore Qalandars,Mohammad Hafeez(c),Allrounder,38y 99d,Right hand Bat,Right arm Offbreak
+42,2018/2019,Lahore Qalandars,Agha Salman,Allrounder,25y 62d,Right hand Bat,Right arm Offbreak
+43,2018/2019,Lahore Qalandars,Aizaz Cheema,Bowler,39y 141d,Right hand Bat,Right arm Medium fast
+44,2018/2019,Lahore Qalandars,Corey Anderson,Batting Allrounder,28y 42d,Left hand Bat,Left arm Medium fast
+45,2018/2019,Lahore Qalandars,Carlos Brathwaite,Allrounder,30y 190d,Right hand Bat,Right arm Fast medium
+46,2018/2019,Lahore Qalandars,AB de Villiers†,Wicketkeeper Batter,34y 341d,Right hand Bat,Right arm Medium
+47,2018/2019,Lahore Qalandars,Anton Devcich,Opening Batter,33y 118d,Left hand Bat,Slow Left arm Orthodox
+48,2018/2019,Lahore Qalandars,Fakhar Zaman,Opening Batter,28y 289d,Left hand Bat,Slow Left arm Orthodox
+49,2018/2019,Lahore Qalandars,Gauhar Ali,,29y 264d,Right hand Bat,
+50,2018/2019,Lahore Qalandars,Haris Rauf,Bowler,25y 78d,Right hand Bat,Right arm Fast
+51,2018/2019,Lahore Qalandars,Haris Sohail,Middle order Batter,30y 15d,Left hand Bat,Slow Left arm Orthodox
+52,2018/2019,Lahore Qalandars,Hassan Khan,Bowler,20y 100d,Right hand Bat,Slow Left arm Orthodox
+53,2018/2019,Lahore Qalandars,Sandeep Lamichhane,Bowler,18y 175d,Right hand Bat,Legbreak Googly
+54,2018/2019,Lahore Qalandars,Mohammad Imran,Allrounder,22y 30d,Right hand Bat,Right arm Medium
+55,2018/2019,Lahore Qalandars,Rahat Ali,Bowler,30y 134d,Right hand Bat,Left arm Fast medium
+56,2018/2019,Lahore Qalandars,Syed Saad Ali,Top order Batter,25y 111d,Left hand Bat,Right arm Medium
+57,2018/2019,Lahore Qalandars,Shaheen Shah Afridi,Bowler,18y 293d,Left hand Bat,Left arm Fast
+58,2018/2019,Lahore Qalandars,Sohail Akhtar,Allrounder,32y 328d,Right hand Bat,Right arm Medium
+59,2018/2019,Lahore Qalandars,Brendan Taylor†,Wicketkeeper Batter,32y 352d,Right hand Bat,Right arm Offbreak
+60,2018/2019,Lahore Qalandars,Umair Masood,,21y 48d,Right hand Bat,
+61,2018/2019,Lahore Qalandars,Hardus Viljoen,Bowler,29y 324d,Right hand Bat,Right arm Fast
+62,2018/2019,Lahore Qalandars,David Wiese,Allrounder,33y 251d,Right hand Bat,Right arm Medium fast
+63,2018/2019,Lahore Qalandars,Yasir Shah,Bowler,32y 267d,Right hand Bat,Legbreak Googly
+64,2018/2019,Peshawar Zalmi,Daren Sammy(c),Allrounder,35y 35d,Right hand Bat,Right arm Medium
+65,2018/2019,Peshawar Zalmi,Liam Dawson,Allrounder,28y 329d,Right hand Bat,Slow Left arm Orthodox
+66,2018/2019,Peshawar Zalmi,Andre Fletcher,Top order Batter,31y 57d,Right hand Bat,"Right arm Medium fast, Legbreak"
+67,2018/2019,Peshawar Zalmi,Hasan Ali,Bowler,24y 206d,Right hand Bat,Right arm Medium fast
+68,2018/2019,Peshawar Zalmi,Ibtisam Sheikh,Bowler,20y 314d,Left hand Bat,Legbreak Googly
+69,2018/2019,Peshawar Zalmi,Jamal Anwar,,28y 24d,Right hand Bat,
+70,2018/2019,Peshawar Zalmi,Chris Jordan,Bowler,30y 112d,Right hand Bat,Right arm Fast medium
+71,2018/2019,Peshawar Zalmi,Kamran Akmal†,Wicketkeeper Batter,37y 11d,Right hand Bat,
+72,2018/2019,Peshawar Zalmi,Khalid Usman,Bowling Allrounder,32y 329d,Right hand Bat,Slow Left arm Orthodox
+73,2018/2019,Peshawar Zalmi,Wayne Madsen,Batter,35y 22d,Right hand Bat,Right arm Offbreak
+74,2018/2019,Peshawar Zalmi,Dawid Malan,Top order Batter,31y 143d,Left hand Bat,Legbreak
+75,2018/2019,Peshawar Zalmi,Misbah-ul-Haq,Middle order Batter,44y 241d,Right hand Bat,Legbreak
+76,2018/2019,Peshawar Zalmi,Nabi Gul,,21y 111d,Right hand Bat,
+77,2018/2019,Peshawar Zalmi,Kieron Pollard,Batting Allrounder,31y 257d,Right hand Bat,Right arm Medium
+78,2018/2019,Peshawar Zalmi,Sameen Gul,Bowler,19y 354d,Right hand Bat,Right arm Medium
+79,2018/2019,Peshawar Zalmi,Sohaib Maqsood,Middle order Batter,31y 284d,Right hand Bat,Right arm Offbreak
+80,2018/2019,Peshawar Zalmi,Umaid Asif,Bowling Allrounder,34y 269d,Right hand Bat,Right arm Medium fast
+81,2018/2019,Peshawar Zalmi,Umar Amin,Top order Batter,29y 100d,Left hand Bat,Right arm Medium
+82,2018/2019,Peshawar Zalmi,Wahab Riaz,Bowler,33y 210d,Right hand Bat,Left arm Fast
+83,2018/2019,Peshawar Zalmi,Waqar Salamkheil,Bowler,17y 114d,Right hand Bat,Left arm Wrist spin
+84,2018/2019,Quetta Gladiators,Sarfaraz Ahmed(c),Wicketkeeper Batter,31y 247d,Right hand Bat,Right arm Offbreak
+85,2018/2019,Quetta Gladiators,Ahmed Shehzad,Opening Batter,27y 62d,Right hand Bat,Legbreak
+86,2018/2019,Quetta Gladiators,Ahsan Ali,Top order Batter,25y 45d,Right hand Bat,Legbreak
+87,2018/2019,Quetta Gladiators,Anwar Ali,Bowler,31y 60d,Right hand Bat,Right arm Medium fast
+88,2018/2019,Quetta Gladiators,Azam Khan†,Wicketkeeper,20y 167d,Right hand Bat,
+89,2018/2019,Quetta Gladiators,Dwayne Bravo,Allrounder,35y 109d,Right hand Bat,Right arm Medium
+90,2018/2019,Quetta Gladiators,Danish Aziz,Allrounder,23y 65d,Left hand Bat,Slow Left arm Orthodox
+91,2018/2019,Quetta Gladiators,Fawad Ahmed,Bowler,36y 353d,Right hand Bat,Legbreak Googly
+92,2018/2019,Quetta Gladiators,Ghulam Mudassar,Bowler,19y 92d,Right hand Bat,Left arm Fast medium
+93,2018/2019,Quetta Gladiators,Harry Gurney,Bowler,32y 91d,Right hand Bat,Left arm Fast medium
+94,2018/2019,Quetta Gladiators,Jalat Khan,,32y 355d,Left hand Bat,Slow Left arm Orthodox
+95,2018/2019,Quetta Gladiators,Mohammad Asghar,Bowler,20y 27d,Right hand Bat,Slow Left arm Orthodox
+96,2018/2019,Quetta Gladiators,Mohammad Hasnain,Bowler,18y 294d,Right hand Bat,Right arm Fast
+97,2018/2019,Quetta Gladiators,Mohammad Irfan,Bowler,23y 254d,Right hand Bat,Right arm Medium
+98,2018/2019,Quetta Gladiators,Mohammad Nawaz,Allrounder,24y 309d,Left hand Bat,Slow Left arm Orthodox
+99,2018/2019,Quetta Gladiators,Sunil Narine,Bowling Allrounder,30y 243d,Left hand Bat,Right arm Offbreak
+100,2018/2019,Quetta Gladiators,Rilee Rossouw,Top order Batter,29y 107d,Left hand Bat,Right arm Offbreak
+101,2018/2019,Quetta Gladiators,Saud Shakeel,Middle order Batter,23y 141d,Left hand Bat,Left arm Slow
+102,2018/2019,Quetta Gladiators,Dwayne Smith,Allrounder,35y 287d,Right hand Bat,Right arm Medium
+103,2018/2019,Quetta Gladiators,Sohail Tanvir,Bowler,34y 43d,Left hand Bat,Left arm Medium fast
+104,2018/2019,Quetta Gladiators,Umar Akmal,Middle order Batter,28y 243d,Right hand Bat,Right arm Offbreak
+105,2018/2019,Quetta Gladiators,Shane Watson,Allrounder,37y 221d,Right hand Bat,Right arm Fast medium
+106,2018/2019,Quetta Gladiators,Naseem Shah,Bowler,15y 343d,Right hand Bat,Right arm Fast
+107,2018/2019,Multan Sultans,Shoaib Malik(c),Allrounder,36y 357d,Right hand Bat,Right arm Offbreak
+108,2018/2019,Multan Sultans,Ali Shafique,Bowler,22y 69d,Right hand Bat,Right arm Medium
+109,2018/2019,Multan Sultans,Johnson Charles†,Wicketkeeper Batter,30y 10d,Right hand Bat,
+110,2018/2019,Multan Sultans,Dan Christian,Allrounder,35y 265d,Right hand Bat,Right arm Fast medium
+111,2018/2019,Multan Sultans,Joe Denly,Top order Batter,32y 314d,Right hand Bat,Legbreak
+112,2018/2019,Multan Sultans,Laurie Evans,Batter,31y 104d,Right hand Bat,Right arm Offbreak
+113,2018/2019,Multan Sultans,Chris Green,Bowling Allrounder,25y 115d,Right hand Bat,Right arm Offbreak
+114,2018/2019,Multan Sultans,Hammad Azam,Middle order Batter,27y 314d,Right hand Bat,Right arm Medium
+115,2018/2019,Multan Sultans,Junaid Khan,Bowler,29y 31d,Right hand Bat,Left arm Fast
+116,2018/2019,Multan Sultans,Mohammad Abbas,Bowler,28y 320d,Right hand Bat,Right arm Medium fast
+117,2018/2019,Multan Sultans,Mohammad Ilyas,Opening Batter,22y 213d,Left hand Bat,Right arm Offbreak
+118,2018/2019,Multan Sultans,Mohammad Irfan,Bowler,36y 232d,Right hand Bat,Left arm Fast
+119,2018/2019,Multan Sultans,Mohammad Irfan,Bowler,29y 176d,Right hand Bat,Legbreak Googly
+120,2018/2019,Multan Sultans,Mohammad Junaid,,16y 309d,Left hand Bat,Slow Left arm Orthodox
+121,2018/2019,Multan Sultans,Tom Moores†,Wicketkeeper Batter,22y 142d,Left hand Bat,
+122,2018/2019,Multan Sultans,Nauman Ali,Bowler,32y 109d,Left hand Bat,Slow Left arm Orthodox
+123,2018/2019,Multan Sultans,Qais Ahmad,Bowler,18y 162d,Right hand Bat,Legbreak
+124,2018/2019,Multan Sultans,Andre Russell,Allrounder,30y 270d,Right hand Bat,Right arm Fast
+125,2018/2019,Multan Sultans,Shahid Afridi,Allrounder,38y 329d,Right hand Bat,Legbreak Googly
+126,2018/2019,Multan Sultans,Shakeel Ansar†,Wicketkeeper Batter,40y 74d,Right hand Bat,
+127,2018/2019,Multan Sultans,Shan Masood,Opening Batter,29y 102d,Left hand Bat,Right arm Medium fast
+128,2018/2019,Multan Sultans,Umar Siddiq,Opening Batter,26y 25d,Left hand Bat,Right arm Offbreak
+129,2018/2019,Multan Sultans,James Vince,Batter,27y 316d,Right hand Bat,Right arm Medium
+130,2018/2019,Multan Sultans,Nicholas Pooran†,Wicketkeeper Batter,23y 114d,Left hand Bat,Right arm Offbreak
+131,2018/2019,Multan Sultans,Steven Smith,Middle order Batter,29y 236d,Right hand Bat,Legbreak Googly
+0,2019/2020,Islamabad United,Shadab Khan(c),Allrounder,21y 63d,Right hand Bat,Legbreak
+1,2019/2020,Islamabad United,Ahmed Safi Abdullah,Bowling Allrounder,21y 280d,Left hand Bat,Slow Left arm Orthodox
+2,2019/2020,Islamabad United,Akif Javed,Bowler,19y 57d,Right hand Bat,Left arm Medium fast
+3,2019/2020,Islamabad United,Amad Butt,Bowling Allrounder,24y 210d,Right hand Bat,Right arm Fast
+4,2019/2020,Islamabad United,Asif Ali,Middle order Batter,28y 66d,Right hand Bat,Right arm Offbreak
+5,2019/2020,Islamabad United,Faheem Ashraf,Bowling Allrounder,25y 324d,Left hand Bat,Right arm Medium
+6,2019/2020,Islamabad United,Hussain Talat,Allrounder,23y 297d,Left hand Bat,Right arm Medium fast
+7,2019/2020,Islamabad United,Colin Ingram,Top order Batter,34y 156d,Left hand Bat,Legbreak
+8,2019/2020,Islamabad United,Dawid Malan,Top order Batter,32y 94d,Left hand Bat,Legbreak
+9,2019/2020,Islamabad United,Muhammad Musa,Bowler,19y 100d,Right hand Bat,Right arm Fast medium
+10,2019/2020,Islamabad United,Colin Munro,Opening Batter,32y 270d,Left hand Bat,Right arm Medium fast
+11,2019/2020,Islamabad United,Rizwan Hussain,Batter,23y 224d,Left hand Bat,
+12,2019/2020,Islamabad United,Luke Ronchi†,Wicketkeeper Batter,38y 227d,Right hand Bat,
+13,2019/2020,Islamabad United,Rumman Raees,Bowler,28y 49d,Right hand Bat,Left arm Medium fast
+14,2019/2020,Islamabad United,Saif Badar,Middle order Batter,21y 156d,Right hand Bat,Legbreak Googly
+15,2019/2020,Islamabad United,Phil Salt†,Wicketkeeper Batter,23y 100d,Right hand Bat,Right arm Offbreak
+16,2019/2020,Islamabad United,Dale Steyn,Bowler,36y 162d,Right hand Bat,Right arm Fast
+17,2019/2020,Islamabad United,Zafar Gohar,Bowler,24y 308d,Left hand Bat,Slow Left arm Orthodox
+18,2019/2020,Islamabad United,Rassie van der Dussen,Top order Batter,30y 302d,Right hand Bat,Legbreak
+19,2019/2020,Karachi Kings,Imad Wasim(c),Allrounder,30y 353d,Left hand Bat,Slow Left arm Orthodox
+20,2019/2020,Karachi Kings,Aamer Yamin,Allrounder,29y 163d,Right hand Bat,Right arm Medium
+21,2019/2020,Karachi Kings,Ali Khan,Bowler,28y 358d,Right hand Bat,Right arm Fast medium
+22,2019/2020,Karachi Kings,Arshad Iqbal,Bowler,18y 345d,Right hand Bat,Right arm Medium fast
+23,2019/2020,Karachi Kings,Awais Zia,Opening Batter,33y 96d,Left hand Bat,Right arm Offbreak
+24,2019/2020,Karachi Kings,Babar Azam,Batter,25y 52d,Right hand Bat,Right arm Offbreak
+25,2019/2020,Karachi Kings,Cameron Delport,Top order Batter,30y 208d,Left hand Bat,Right arm Medium
+26,2019/2020,Karachi Kings,Alex Hales,Opening Batter,30y 337d,Right hand Bat,Right arm Medium
+27,2019/2020,Karachi Kings,Iftikhar Ahmed,Middle order Batter,29y 94d,Right hand Bat,Right arm Offbreak
+28,2019/2020,Karachi Kings,Chris Jordan,Bowler,31y 63d,Right hand Bat,Right arm Fast medium
+29,2019/2020,Karachi Kings,Mohammad Amir,Bowler,27y 237d,Left hand Bat,Left arm Fast medium
+30,2019/2020,Karachi Kings,Mohammad Rizwan†,Wicketkeeper Batter,27y 188d,Right hand Bat,
+31,2019/2020,Karachi Kings,Wayne Parnell,Bowler,30y 129d,Left hand Bat,Left arm Medium fast
+32,2019/2020,Karachi Kings,Sherfane Rutherford,Middle order Batter,21y 113d,Left hand Bat,Right arm Fast medium
+33,2019/2020,Karachi Kings,Sharjeel Khan,Opening Batter,30y 114d,Left hand Bat,Legbreak
+34,2019/2020,Karachi Kings,Umaid Asif,Bowling Allrounder,35y 220d,Right hand Bat,Right arm Medium fast
+35,2019/2020,Karachi Kings,Umer Khan,Bowler,20y 123d,Left hand Bat,Slow Left arm Orthodox
+36,2019/2020,Karachi Kings,Usama Mir,Bowler,23y 348d,Right hand Bat,Legbreak
+37,2019/2020,Karachi Kings,Chadwick Walton,Top order Batter,34y 156d,Right hand Bat,
+38,2019/2020,Karachi Kings,Dan Lawrence,Middle order Batter,22y 147d,Right hand Bat,Right arm Offbreak
+39,2019/2020,Karachi Kings,Mitchell McClenaghan,Bowler,33y 178d,Left hand Bat,Left arm Fast medium
+40,2019/2020,Karachi Kings,Liam Plunkett,Bowler,34y 244d,Right hand Bat,Right arm Fast
+41,2019/2020,Lahore Qalandars,Sohail Akhtar(c),Allrounder,33y 279d,Right hand Bat,Right arm Medium
+42,2019/2020,Lahore Qalandars,Dilbar Hussain,Bowler,26y 289d,Right hand Bat,Right arm Fast medium
+43,2019/2020,Lahore Qalandars,Ben Dunk†,Wicketkeeper Batter,32y 270d,Left hand Bat,Right arm Offbreak
+44,2019/2020,Lahore Qalandars,Fakhar Zaman,Opening Batter,29y 240d,Left hand Bat,Slow Left arm Orthodox
+45,2019/2020,Lahore Qalandars,Haris Rauf,Bowler,26y 29d,Right hand Bat,Right arm Fast
+46,2019/2020,Lahore Qalandars,Jaahid Ali,,24y 276d,Right hand Bat,Right arm Offbreak
+47,2019/2020,Lahore Qalandars,Chris Lynn,Batter,29y 240d,Right hand Bat,Slow Left arm Orthodox
+48,2019/2020,Lahore Qalandars,Mohammad Hafeez,Allrounder,39y 50d,Right hand Bat,Right arm Offbreak
+49,2019/2020,Lahore Qalandars,Muhammad Faizan,Batter,22y 213d,Right hand Bat,Right arm Medium fast
+50,2019/2020,Lahore Qalandars,Samit Patel,Allrounder,35y 6d,Right hand Bat,Slow Left arm Orthodox
+51,2019/2020,Lahore Qalandars,Seekkuge Prasanna,Allrounder,34y 162d,Right hand Bat,Legbreak
+52,2019/2020,Lahore Qalandars,Raja Farzan,Bowler,24y 208d,Left hand Bat,Legbreak Googly
+53,2019/2020,Lahore Qalandars,Salman Butt,Batter,35y 60d,Left hand Bat,Right arm Offbreak
+54,2019/2020,Lahore Qalandars,Shaheen Shah Afridi,Bowler,19y 244d,Left hand Bat,Left arm Fast
+55,2019/2020,Lahore Qalandars,Tamim Iqbal,Opening Batter,30y 261d,Left hand Bat,
+56,2019/2020,Lahore Qalandars,Usman Shinwari,Bowler,25y 335d,Right hand Bat,Left arm Medium fast
+57,2019/2020,Lahore Qalandars,Dane Vilas†,Wicketkeeper Batter,34y 179d,Right hand Bat,
+58,2019/2020,Lahore Qalandars,David Wiese,Allrounder,34y 202d,Right hand Bat,Right arm Medium fast
+59,2019/2020,Lahore Qalandars,Lendl Simmons,Top order Batter,34y 315d,Right hand Bat,Right arm Medium fast
+60,2019/2020,Peshawar Zalmi,Wahab Riaz(c),Bowler,34y 161d,Right hand Bat,Left arm Fast
+61,2019/2020,Peshawar Zalmi,Aamir Ali,,17y 215d,Left hand Bat,Slow Left arm Orthodox
+62,2019/2020,Peshawar Zalmi,Adil Amin,,28y 358d,Right hand Bat,Right arm Offbreak
+63,2019/2020,Peshawar Zalmi,Tom Banton,Opening Batter,21y 25d,Right hand Bat,
+64,2019/2020,Peshawar Zalmi,Carlos Brathwaite,Allrounder,31y 141d,Right hand Bat,Right arm Fast medium
+65,2019/2020,Peshawar Zalmi,Liam Dawson,Allrounder,29y 280d,Right hand Bat,Slow Left arm Orthodox
+66,2019/2020,Peshawar Zalmi,Faf du Plessis,Middle order Batter,35y 146d,Right hand Bat,Legbreak
+67,2019/2020,Peshawar Zalmi,Lewis Gregory,Allrounder,27y 196d,Right hand Bat,Right arm Medium fast
+68,2019/2020,Peshawar Zalmi,Haider Ali,Middle order Batter,19y 65d,Right hand Bat,
+69,2019/2020,Peshawar Zalmi,Hasan Ali,Bowler,25y 157d,Right hand Bat,Right arm Medium fast
+70,2019/2020,Peshawar Zalmi,Imam-ul-Haq,Top order Batter,23y 349d,Left hand Bat,
+71,2019/2020,Peshawar Zalmi,Kamran Akmal†,Wicketkeeper Batter,37y 327d,Right hand Bat,
+72,2019/2020,Peshawar Zalmi,Khurram Shahzad,Bowler,20y 11d,Right hand Bat,Right arm Medium
+73,2019/2020,Peshawar Zalmi,Liam Livingstone,Batting Allrounder,26y 124d,Right hand Bat,Legbreak
+74,2019/2020,Peshawar Zalmi,Saqib Mahmood,Bowler,22y 284d,Right hand Bat,Right arm Fast medium
+75,2019/2020,Peshawar Zalmi,Mohammad Mohsin,Bowling Allrounder,23y 235d,Left hand Bat,Legbreak Googly
+76,2019/2020,Peshawar Zalmi,Rahat Ali,Bowler,31y 85d,Right hand Bat,Left arm Fast medium
+77,2019/2020,Peshawar Zalmi,Shoaib Malik,Allrounder,37y 308d,Right hand Bat,Right arm Offbreak
+78,2019/2020,Peshawar Zalmi,Sohaib Maqsood,Middle order Batter,32y 235d,Right hand Bat,Right arm Offbreak
+79,2019/2020,Peshawar Zalmi,Umar Amin,Top order Batter,30y 51d,Left hand Bat,Right arm Medium
+80,2019/2020,Peshawar Zalmi,Hardus Viljoen,Bowler,30y 275d,Right hand Bat,Right arm Fast
+81,2019/2020,Peshawar Zalmi,Mohammad Amir Khan,Bowler,18y 88d,Right hand Bat,Right arm Medium
+82,2019/2020,Peshawar Zalmi,Kieron Pollard,Batting Allrounder,32y 208d,Right hand Bat,Right arm Medium
+83,2019/2020,Peshawar Zalmi,Dwaine Pretorius,Bowling Allrounder,30y 252d,Right hand Bat,Right arm Medium fast
+84,2019/2020,Peshawar Zalmi,Daren Sammy,Allrounder,35y 351d,Right hand Bat,Right arm Medium
+85,2019/2020,Quetta Gladiators,Sarfaraz Ahmed† (c),Wicketkeeper Batter,32y 198d,Right hand Bat,Right arm Offbreak
+86,2019/2020,Quetta Gladiators,Shane Watson(vc),Allrounder,38y 172d,Right hand Bat,Right arm Fast medium
+87,2019/2020,Quetta Gladiators,Abdul Nasir,Allrounder,20y 346d,Right hand Bat,Right arm Offbreak
+88,2019/2020,Quetta Gladiators,Ahmed Shehzad,Opening Batter,28y 13d,Right hand Bat,Legbreak
+89,2019/2020,Quetta Gladiators,Ahsan Ali,Top order Batter,25y 361d,Right hand Bat,Legbreak
+90,2019/2020,Quetta Gladiators,Arish Ali Khan,Bowler,18y 351d,Right hand Bat,Slow Left arm Orthodox
+91,2019/2020,Quetta Gladiators,Azam Khan†,Wicketkeeper,21y 118d,Right hand Bat,
+92,2019/2020,Quetta Gladiators,Ben Cutting,Allrounder,32y 310d,Right hand Bat,Right arm Fast medium
+93,2019/2020,Quetta Gladiators,Fawad Ahmed,Bowler,37y 304d,Right hand Bat,Legbreak Googly
+94,2019/2020,Quetta Gladiators,Khurram Manzoor,Opening Batter,33y 179d,Right hand Bat,Right arm Offbreak
+95,2019/2020,Quetta Gladiators,Tymal Mills,Bowler,27y 116d,Right hand Bat,Left arm Fast
+96,2019/2020,Quetta Gladiators,Mohammad Hasnain,Bowler,19y 245d,Right hand Bat,Right arm Fast
+97,2019/2020,Quetta Gladiators,Mohammad Nawaz,Allrounder,25y 260d,Left hand Bat,Slow Left arm Orthodox
+98,2019/2020,Quetta Gladiators,Naseem Shah,Bowler,16y 294d,Right hand Bat,Right arm Fast
+99,2019/2020,Quetta Gladiators,Keemo Paul,Allrounder,21y 288d,Right hand Bat,Right arm Fast medium
+100,2019/2020,Quetta Gladiators,Jason Roy,Opening Batter,29y 138d,Right hand Bat,
+101,2019/2020,Quetta Gladiators,Sohail Khan,Bowler,35y 275d,Right hand Bat,Right arm Fast medium
+102,2019/2020,Quetta Gladiators,Umar Akmal,Middle order Batter,29y 194d,Right hand Bat,Right arm Offbreak
+103,2019/2020,Multan Sultans,Shan Masood(c),Opening Batter,30y 53d,Left hand Bat,Right arm Medium fast
+104,2019/2020,Multan Sultans,Moeen Ali,Batting Allrounder,32y 171d,Left hand Bat,Right arm Offbreak
+105,2019/2020,Multan Sultans,Ali Shafique,Bowler,23y 20d,Right hand Bat,Right arm Medium
+106,2019/2020,Multan Sultans,Fabian Allen,Bowling Allrounder,24y 213d,Right hand Bat,Slow Left arm Orthodox
+107,2019/2020,Multan Sultans,Bilawal Bhatti,Bowler,28y 80d,Right hand Bat,Right arm Medium fast
+108,2019/2020,Multan Sultans,Ravi Bopara,Batting Allrounder,34y 216d,Right hand Bat,Right arm Medium
+109,2019/2020,Multan Sultans,Joe Denly,Top order Batter,33y 265d,Right hand Bat,Legbreak
+110,2019/2020,Multan Sultans,Imran Tahir,Bowler,40y 254d,Right hand Bat,Legbreak Googly
+111,2019/2020,Multan Sultans,Junaid Khan,Bowler,29y 347d,Right hand Bat,Left arm Fast
+112,2019/2020,Multan Sultans,Khushdil Shah,Middle order Batter,24y 302d,Left hand Bat,Slow Left arm Orthodox
+113,2019/2020,Multan Sultans,Adam Lyth,Batter,32y 72d,Left hand Bat,Right arm Offbreak
+114,2019/2020,Multan Sultans,Wayne Madsen,Batter,35y 338d,Right hand Bat,Right arm Offbreak
+115,2019/2020,Multan Sultans,Mohammad Ilyas,Bowler,20y 260d,Right hand Bat,Right arm Medium fast
+116,2019/2020,Multan Sultans,Mohammad Irfan,Bowler,37y 183d,Right hand Bat,Left arm Fast
+117,2019/2020,Multan Sultans,Rohail Nazir†,Wicketkeeper Batter,18y 57d,Right hand Bat,
+118,2019/2020,Multan Sultans,Rilee Rossouw,Top order Batter,30y 58d,Left hand Bat,Right arm Offbreak
+119,2019/2020,Multan Sultans,Shahid Afridi,Allrounder,39y 280d,Right hand Bat,Legbreak Googly
+120,2019/2020,Multan Sultans,Sohail Tanvir,Bowler,34y 359d,Left hand Bat,Left arm Medium fast
+121,2019/2020,Multan Sultans,Brendan Taylor†,Wicketkeeper Batter,33y 303d,Right hand Bat,Right arm Offbreak
+122,2019/2020,Multan Sultans,Usman Qadir,Bowler,26y 118d,Left hand Bat,Legbreak
+123,2019/2020,Multan Sultans,Zeeshan Ashraf†,Wicketkeeper Batter,27y 209d,Left hand Bat,Right arm Offbreak
+124,2019/2020,Multan Sultans,James Vince,Batter,28y 267d,Right hand Bat,Right arm Medium
+0,2020/2021,Islamabad United,Shadab Khan(c),Allrounder,22y 98d,Right hand Bat,Legbreak
+1,2020/2021,Islamabad United,Ahmed Safi Abdullah,Bowling Allrounder,22y 315d,Left hand Bat,Slow Left arm Orthodox
+2,2020/2021,Islamabad United,Akif Javed,Bowler,20y 92d,Right hand Bat,Left arm Medium fast
+3,2020/2021,Islamabad United,Ali Khan,Bowler,30y 28d,Right hand Bat,Right arm Fast medium
+4,2020/2021,Islamabad United,Asif Ali,Middle order Batter,29y 101d,Right hand Bat,Right arm Offbreak
+5,2020/2021,Islamabad United,Faheem Ashraf,Bowling Allrounder,26y 360d,Left hand Bat,Right arm Medium
+6,2020/2021,Islamabad United,Fawad Ahmed,Bowler,38y 340d,Right hand Bat,Legbreak Googly
+7,2020/2021,Islamabad United,Hussain Talat,Allrounder,24y 333d,Left hand Bat,Right arm Medium fast
+8,2020/2021,Islamabad United,Iftikhar Ahmed,Middle order Batter,30y 129d,Right hand Bat,Right arm Offbreak
+9,2020/2021,Islamabad United,Usman Khawaja,Top order Batter,34y 23d,Left hand Bat,Right arm Medium
+10,2020/2021,Islamabad United,Brandon King,Top order Batter,26y 25d,Right hand Bat,
+11,2020/2021,Islamabad United,Mohammad Wasim,Allrounder,19y 138d,Right hand Bat,Right arm Fast medium
+12,2020/2021,Islamabad United,Muhammad Akhlaq†,Wicketkeeper Batter,28y 59d,Right hand Bat,Right arm Medium fast
+13,2020/2021,Islamabad United,Muhammad Musa,Bowler,20y 135d,Right hand Bat,Right arm Fast medium
+14,2020/2021,Islamabad United,Colin Munro,Opening Batter,33y 305d,Left hand Bat,Right arm Medium fast
+15,2020/2021,Islamabad United,Rohail Nazir†,Wicketkeeper Batter,19y 92d,Right hand Bat,
+16,2020/2021,Islamabad United,Umar Amin,Top order Batter,31y 86d,Left hand Bat,Right arm Medium
+17,2020/2021,Islamabad United,Zafar Gohar,Bowler,25y 344d,Left hand Bat,Slow Left arm Orthodox
+18,2020/2021,Islamabad United,Zeeshan Zameer,Bowling Allrounder,18y 153d,Right hand Bat,Right arm Fast medium
+19,2020/2021,Islamabad United,Lewis Gregory,Allrounder,28y 231d,Right hand Bat,Right arm Medium fast
+20,2020/2021,Islamabad United,Alex Hales,Opening Batter,32y 7d,Right hand Bat,Right arm Medium
+21,2020/2021,Islamabad United,Hasan Ali,Bowler,26y 192d,Right hand Bat,Right arm Medium fast
+22,2020/2021,Islamabad United,Chris Jordan,Bowler,32y 98d,Right hand Bat,Right arm Fast medium
+23,2020/2021,Islamabad United,Janneman Malan,Top order Batter,24y 267d,Right hand Bat,Legbreak
+24,2020/2021,Islamabad United,Phil Salt†,Wicketkeeper Batter,24y 135d,Right hand Bat,Right arm Offbreak
+25,2020/2021,Islamabad United,Paul Stirling,Batting Allrounder,30y 129d,Right hand Bat,Right arm Offbreak
+26,2020/2021,Islamabad United,Reece Topley,Bowler,26y 324d,Right hand Bat,Left arm Fast medium
+27,2020/2021,Karachi Kings,Imad Wasim(c),Allrounder,32y 23d,Left hand Bat,Slow Left arm Orthodox
+28,2020/2021,Karachi Kings,Babar Azam(vc),Batter,26y 87d,Right hand Bat,Right arm Offbreak
+29,2020/2021,Karachi Kings,Aamer Yamin,Allrounder,30y 198d,Right hand Bat,Right arm Medium
+30,2020/2021,Karachi Kings,Abbas Afridi,Bowler,19y 280d,Right hand Bat,Right arm Medium fast
+31,2020/2021,Karachi Kings,Arshad Iqbal,Bowler,20y 15d,Right hand Bat,Right arm Medium fast
+32,2020/2021,Karachi Kings,Danish Aziz,Allrounder,25y 51d,Left hand Bat,Slow Left arm Orthodox
+33,2020/2021,Karachi Kings,Martin Guptill,Opening Batter,34y 102d,Right hand Bat,Right arm Offbreak
+34,2020/2021,Karachi Kings,Mohammad Amir,Bowler,28y 272d,Left hand Bat,Left arm Fast medium
+35,2020/2021,Karachi Kings,Mohammad Haris,Middle order Batter,19y 286d,Right hand Bat,Right arm Offbreak
+36,2020/2021,Karachi Kings,Mohammad Ilyas,Bowler,21y 295d,Right hand Bat,Right arm Medium fast
+37,2020/2021,Karachi Kings,Najibullah Zadran,Middle order Batter,27y 317d,Left hand Bat,Right arm Offbreak
+38,2020/2021,Karachi Kings,Noor Ahmad,Bowler,16y 7d,Right hand Bat,Left arm Wrist spin
+39,2020/2021,Karachi Kings,Thisara Perera,Bowling Allrounder,31y 282d,Left hand Bat,Right arm Medium fast
+40,2020/2021,Karachi Kings,Qasim Akram,Allrounder,18y 40d,Right hand Bat,Right arm Offbreak
+41,2020/2021,Karachi Kings,Sharjeel Khan,Opening Batter,31y 149d,Left hand Bat,Legbreak
+42,2020/2021,Karachi Kings,Chadwick Walton,Top order Batter,35y 191d,Right hand Bat,
+43,2020/2021,Karachi Kings,Waqas Maqsood,Bowler,33y 67d,Left hand Bat,Left arm Fast medium
+44,2020/2021,Karachi Kings,Zeeshan Malik,Opening Batter,24y 15d,Right hand Bat,Right arm Offbreak
+45,2020/2021,Karachi Kings,Dan Christian,Allrounder,37y 251d,Right hand Bat,Right arm Fast medium
+46,2020/2021,Karachi Kings,Joe Clarke,Top order Batter,24y 229d,Right hand Bat,
+47,2020/2021,Karachi Kings,Colin Ingram,Top order Batter,35y 191d,Left hand Bat,Legbreak
+48,2020/2021,Karachi Kings,Litton Das†,Wicketkeeper Batter,26y 89d,Right hand Bat,Right arm Offbreak
+49,2020/2021,Karachi Kings,Mohammad Nabi,Allrounder,36y 9d,Right hand Bat,Right arm Offbreak
+50,2020/2021,Lahore Qalandars,Sohail Akhtar(c),Allrounder,34y 314d,Right hand Bat,Right arm Medium
+51,2020/2021,Lahore Qalandars,Shaheen Shah Afridi(vc),Bowler,20y 279d,Left hand Bat,Left arm Fast
+52,2020/2021,Lahore Qalandars,Agha Salman,Allrounder,27y 48d,Right hand Bat,Right arm Offbreak
+53,2020/2021,Lahore Qalandars,Ahmed Daniyal,Bowler,23y 191d,Right hand Bat,Right arm Medium fast
+54,2020/2021,Lahore Qalandars,Tim David,Middle order Batter,24y 300d,Right hand Bat,Right arm Offbreak
+55,2020/2021,Lahore Qalandars,Dilbar Hussain,Bowler,27y 325d,Right hand Bat,Right arm Fast medium
+56,2020/2021,Lahore Qalandars,Ben Dunk†,Wicketkeeper Batter,33y 305d,Left hand Bat,Right arm Offbreak
+57,2020/2021,Lahore Qalandars,Fakhar Zaman,Opening Batter,30y 275d,Left hand Bat,Slow Left arm Orthodox
+58,2020/2021,Lahore Qalandars,James Faulkner,Bowling Allrounder,30y 256d,Right hand Bat,Left arm Fast medium
+59,2020/2021,Lahore Qalandars,Callum Ferguson,Middle order Batter,36y 50d,Right hand Bat,Right arm Medium
+60,2020/2021,Lahore Qalandars,Haris Rauf,Bowler,27y 64d,Right hand Bat,Right arm Fast
+61,2020/2021,Lahore Qalandars,Maaz Khan,Bowler,22y 332d,Right hand Bat,Legbreak Googly
+62,2020/2021,Lahore Qalandars,Mohammad Hafeez,Allrounder,40y 85d,Right hand Bat,Right arm Offbreak
+63,2020/2021,Lahore Qalandars,Muhammad Faizan,Batter,23y 248d,Right hand Bat,Right arm Medium fast
+64,2020/2021,Lahore Qalandars,Muhammad Zaid,Batter,21y 17d,Right hand Bat,Right arm Medium fast
+65,2020/2021,Lahore Qalandars,Seekkuge Prasanna,Allrounder,35y 197d,Right hand Bat,Legbreak
+66,2020/2021,Lahore Qalandars,Rashid Khan,Bowling Allrounder,22y 112d,Right hand Bat,Legbreak Googly
+67,2020/2021,Lahore Qalandars,Sultan Ahmed,Bowler,31y 91d,Left hand Bat,Slow Left arm Orthodox
+68,2020/2021,Lahore Qalandars,Zeeshan Ashraf†,Wicketkeeper Batter,28y 244d,Left hand Bat,Right arm Offbreak
+69,2020/2021,Lahore Qalandars,Tom Abell,Batting Allrounder,26y 311d,Right hand Bat,Right arm Medium
+70,2020/2021,Lahore Qalandars,Joe Burns,Batter,31y 126d,Right hand Bat,"Right arm Medium, Right arm Offbreak"
+71,2020/2021,Lahore Qalandars,Joe Denly,Top order Batter,34y 300d,Right hand Bat,Legbreak
+72,2020/2021,Lahore Qalandars,Samit Patel,Allrounder,36y 41d,Right hand Bat,Slow Left arm Orthodox
+73,2020/2021,Lahore Qalandars,Salman Mirza,Bowler,27y 9d,Right hand Bat,Left arm Medium fast
+74,2020/2021,Lahore Qalandars,Shakib Al Hasan,Allrounder,33y 292d,Left hand Bat,Slow Left arm Orthodox
+75,2020/2021,Lahore Qalandars,David Wiese,Allrounder,35y 237d,Right hand Bat,Right arm Medium fast
+76,2020/2021,Peshawar Zalmi,Wahab Riaz(c),Bowler,35y 196d,Right hand Bat,Left arm Fast
+77,2020/2021,Peshawar Zalmi,Shoaib Malik(vc),Allrounder,38y 344d,Right hand Bat,Right arm Offbreak
+78,2020/2021,Peshawar Zalmi,Abrar Ahmed,Bowler,22y 86d,Right hand Bat,Legbreak Googly
+79,2020/2021,Peshawar Zalmi,Fabian Allen,Bowling Allrounder,25y 248d,Right hand Bat,Slow Left arm Orthodox
+80,2020/2021,Peshawar Zalmi,Amad Butt,Bowling Allrounder,25y 245d,Right hand Bat,Right arm Fast
+81,2020/2021,Peshawar Zalmi,Bismillah Khan†,Wicketkeeper Batter,30y 315d,Right hand Bat,
+82,2020/2021,Peshawar Zalmi,Fidel Edwards,Bowler,38y 339d,Right hand Bat,Right arm Fast
+83,2020/2021,Peshawar Zalmi,Haider Ali,Middle order Batter,20y 100d,Right hand Bat,
+84,2020/2021,Peshawar Zalmi,Hazratullah Zazai,Opening Batter,22y 293d,Left hand Bat,Slow Left arm Orthodox
+85,2020/2021,Peshawar Zalmi,Imam-ul-Haq,Top order Batter,25y 19d,Left hand Bat,
+86,2020/2021,Peshawar Zalmi,Kamran Akmal†,Wicketkeeper Batter,38y 363d,Right hand Bat,
+87,2020/2021,Peshawar Zalmi,Khalid Usman,Bowling Allrounder,34y 315d,Right hand Bat,Slow Left arm Orthodox
+88,2020/2021,Peshawar Zalmi,David Miller,Middle order Batter,31y 214d,Left hand Bat,Right arm Offbreak
+89,2020/2021,Peshawar Zalmi,Mohammad Amir Khan,Bowler,19y 123d,Right hand Bat,Right arm Medium
+90,2020/2021,Peshawar Zalmi,Mohammad Imran,Bowler,19y 356d,Right hand Bat,Left arm Medium fast
+91,2020/2021,Peshawar Zalmi,Mohammad Imran,Allrounder,24y 16d,Right hand Bat,Right arm Medium
+92,2020/2021,Peshawar Zalmi,Mohammad Irfan,Bowler,38y 218d,Right hand Bat,Left arm Fast
+93,2020/2021,Peshawar Zalmi,Rovman Powell,Middle order Batter,27y 171d,Right hand Bat,Right arm Medium fast
+94,2020/2021,Peshawar Zalmi,Sherfane Rutherford,Middle order Batter,22y 148d,Left hand Bat,Right arm Fast medium
+95,2020/2021,Peshawar Zalmi,Sameen Gul,Bowler,21y 341d,Right hand Bat,Right arm Medium
+96,2020/2021,Peshawar Zalmi,Umaid Asif,Bowling Allrounder,36y 255d,Right hand Bat,Right arm Medium fast
+97,2020/2021,Peshawar Zalmi,Waqar Salamkheil,Bowler,19y 100d,Right hand Bat,Left arm Wrist spin
+98,2020/2021,Peshawar Zalmi,Jonathan Wells,Middle order Batter,32y 150d,Right hand Bat,Right arm Medium
+99,2020/2021,Peshawar Zalmi,Ravi Bopara,Batting Allrounder,35y 251d,Right hand Bat,Right arm Medium
+100,2020/2021,Peshawar Zalmi,Tom Kohler-Cadmore,Batter,26y 144d,Right hand Bat,Right arm Offbreak
+101,2020/2021,Peshawar Zalmi,Liam Livingstone,Batting Allrounder,27y 159d,Right hand Bat,Legbreak
+102,2020/2021,Peshawar Zalmi,Saqib Mahmood,Bowler,23y 320d,Right hand Bat,Right arm Fast medium
+103,2020/2021,Peshawar Zalmi,Mujeeb Ur Rahman,Bowler,19y 288d,Right hand Bat,Right arm Offbreak
+104,2020/2021,Quetta Gladiators,Sarfaraz Ahmed(c),Wicketkeeper Batter,33y 233d,Right hand Bat,Right arm Offbreak
+105,2020/2021,Quetta Gladiators,Mohammad Nawaz(vc),Allrounder,26y 295d,Left hand Bat,Slow Left arm Orthodox
+106,2020/2021,Quetta Gladiators,Abdul Nasir,Allrounder,22y 16d,Right hand Bat,Right arm Offbreak
+107,2020/2021,Quetta Gladiators,Arish Ali Khan,Bowler,20y 21d,Right hand Bat,Slow Left arm Orthodox
+108,2020/2021,Quetta Gladiators,Azam Khan†,Wicketkeeper,22y 153d,Right hand Bat,
+109,2020/2021,Quetta Gladiators,Cameron Delport,Top order Batter,31y 243d,Left hand Bat,Right arm Medium
+110,2020/2021,Quetta Gladiators,Faf du Plessis,Middle order Batter,36y 181d,Right hand Bat,Legbreak
+111,2020/2021,Quetta Gladiators,Hassan Khan,Bowler,22y 86d,Right hand Bat,Slow Left arm Orthodox
+112,2020/2021,Quetta Gladiators,Khurram Shahzad,Bowler,21y 46d,Right hand Bat,Right arm Medium
+113,2020/2021,Quetta Gladiators,Mohammad Hasnain,Bowler,20y 280d,Right hand Bat,Right arm Fast
+114,2020/2021,Quetta Gladiators,Naseem Shah,Bowler,17y 330d,Right hand Bat,Right arm Fast
+115,2020/2021,Quetta Gladiators,Saim Ayub,Top order Batter,18y 231d,Left hand Bat,Right arm Medium fast
+116,2020/2021,Quetta Gladiators,Usman Khan,Top order Batter,25y 245d,Right hand Bat,Right arm Offbreak
+117,2020/2021,Quetta Gladiators,Usman Shinwari,Bowler,27y 5d,Right hand Bat,Left arm Medium fast
+118,2020/2021,Quetta Gladiators,Jake Weatherald,Top order Batter,26y 67d,Left hand Bat,Legbreak
+119,2020/2021,Quetta Gladiators,Jack Wildermuth,Allrounder,27y 131d,Right hand Bat,Right arm Medium fast
+120,2020/2021,Quetta Gladiators,Zahid Mahmood,Bowler,32y 296d,Right hand Bat,Legbreak
+121,2020/2021,Quetta Gladiators,Zahir Khan,Bowler,22y 21d,Left hand Bat,Left arm Wrist spin
+122,2020/2021,Quetta Gladiators,Zahoor Khan,Bowler,31y 230d,Right hand Bat,Right arm Medium fast
+123,2020/2021,Quetta Gladiators,Anwar Ali,Bowler,33y 46d,Right hand Bat,Right arm Medium fast
+124,2020/2021,Quetta Gladiators,Tom Banton,Opening Batter,22y 60d,Right hand Bat,
+125,2020/2021,Quetta Gladiators,Ben Cutting,Allrounder,33y 346d,Right hand Bat,Right arm Fast medium
+126,2020/2021,Quetta Gladiators,Chris Gayle,Allrounder,41y 111d,Left hand Bat,Right arm Offbreak
+127,2020/2021,Quetta Gladiators,Qais Ahmad,Bowler,20y 148d,Right hand Bat,Legbreak
+128,2020/2021,Quetta Gladiators,Andre Russell,Allrounder,32y 256d,Right hand Bat,Right arm Fast
+129,2020/2021,Quetta Gladiators,Dale Steyn,Bowler,37y 197d,Right hand Bat,Right arm Fast
+130,2020/2021,Multan Sultans,Mohammad Rizwan(c),Wicketkeeper Batter,28y 223d,Right hand Bat,
+131,2020/2021,Multan Sultans,Asif Afridi,Bowling Allrounder,34y 16d,Left hand Bat,Slow Left arm Orthodox
+132,2020/2021,Multan Sultans,Johnson Charles†,Wicketkeeper Batter,31y 362d,Right hand Bat,
+133,2020/2021,Multan Sultans,Hammad Azam,Middle order Batter,29y 300d,Right hand Bat,Right arm Medium
+134,2020/2021,Multan Sultans,Shimron Hetmyer,Top order Batter,24y 15d,Left hand Bat,
+135,2020/2021,Multan Sultans,Imran Khan,Bowler,33y 179d,Right hand Bat,Right arm Medium fast
+136,2020/2021,Multan Sultans,Imran Tahir,Bowler,41y 289d,Right hand Bat,Legbreak Googly
+137,2020/2021,Multan Sultans,Khushdil Shah,Middle order Batter,25y 338d,Left hand Bat,Slow Left arm Orthodox
+138,2020/2021,Multan Sultans,Mohammad Umar,Bowler,21y 14d,Right hand Bat,Right arm Medium
+139,2020/2021,Multan Sultans,Muhammad Waseem,Opening Batter,26y 333d,Right hand Bat,Right arm Medium
+140,2020/2021,Multan Sultans,Blessing Muzarabani,Bowler,24y 100d,Right hand Bat,Right arm Fast medium
+141,2020/2021,Multan Sultans,Rahmanullah Gurbaz†,Wicketkeeper Batter,19y 43d,Right hand Bat,
+142,2020/2021,Multan Sultans,Rilee Rossouw,Top order Batter,31y 93d,Left hand Bat,Right arm Offbreak
+143,2020/2021,Multan Sultans,Shahnawaz Dahani,Bowler,22y 158d,Right hand Bat,Right arm Fast medium
+144,2020/2021,Multan Sultans,Shan Masood,Opening Batter,31y 88d,Left hand Bat,Right arm Medium fast
+145,2020/2021,Multan Sultans,Sohaib Maqsood,Middle order Batter,33y 270d,Right hand Bat,Right arm Offbreak
+146,2020/2021,Multan Sultans,Sohaibullah,Bowler,24y 296d,Left hand Bat,Left arm Medium
+147,2020/2021,Multan Sultans,Sohail Khan,Bowler,36y 310d,Right hand Bat,Right arm Fast medium
+148,2020/2021,Multan Sultans,Sohail Tanvir,Bowler,36y 29d,Left hand Bat,Left arm Medium fast
+149,2020/2021,Multan Sultans,Usman Qadir,Bowler,27y 153d,Left hand Bat,Legbreak
+150,2020/2021,Multan Sultans,Carlos Brathwaite,Allrounder,32y 176d,Right hand Bat,Right arm Fast medium
+151,2020/2021,Multan Sultans,George Linde,Allrounder,29y 37d,Left hand Bat,Slow Left arm Orthodox
+152,2020/2021,Multan Sultans,Chris Lynn,Batter,30y 275d,Right hand Bat,Slow Left arm Orthodox
+153,2020/2021,Multan Sultans,Adam Lyth,Batter,33y 107d,Left hand Bat,Right arm Offbreak
+154,2020/2021,Multan Sultans,Mahmudullah,Allrounder,34y 341d,Right hand Bat,Right arm Offbreak
+155,2020/2021,Multan Sultans,Obed McCoy,Bowler,24y 6d,Left hand Bat,Left arm Fast medium
+156,2020/2021,Multan Sultans,Shahid Afridi,Allrounder,40y 315d,Right hand Bat,Legbreak Googly
+157,2020/2021,Multan Sultans,James Vince,Batter,29y 302d,Right hand Bat,Right arm Medium
+0,2021/2022,Islamabad United,Shadab Khan(c),Allrounder,23y 69d,Right hand Bat,Legbreak
+1,2021/2022,Islamabad United,Asif Ali,Middle order Batter,30y 72d,Right hand Bat,Right arm Offbreak
+2,2021/2022,Islamabad United,Athar Mahmood,Bowler,22y 170d,Right hand Bat,Right arm Fast medium
+3,2021/2022,Islamabad United,Azam Khan†,Wicketkeeper,23y 124d,Right hand Bat,
+4,2021/2022,Islamabad United,Danish Aziz,Allrounder,26y 22d,Left hand Bat,Slow Left arm Orthodox
+5,2021/2022,Islamabad United,Marchant de Lange,Bowler,31y 60d,Right hand Bat,Right arm Fast
+6,2021/2022,Islamabad United,Faheem Ashraf,Bowling Allrounder,27y 330d,Left hand Bat,Right arm Medium
+7,2021/2022,Islamabad United,Alex Hales,Opening Batter,32y 343d,Right hand Bat,Right arm Medium
+8,2021/2022,Islamabad United,Hasan Ali,Bowler,27y 163d,Right hand Bat,Right arm Medium fast
+9,2021/2022,Islamabad United,Muhammad Hurraira,Batting Allrounder,19y 231d,Right hand Bat,
+10,2021/2022,Islamabad United,Mohammad Wasim,Allrounder,20y 109d,Right hand Bat,Right arm Fast medium
+11,2021/2022,Islamabad United,Mubasir Khan,Allrounder,19y 232d,Right hand Bat,Right arm Offbreak
+12,2021/2022,Islamabad United,Muhammad Akhlaq†,Wicketkeeper Batter,29y 30d,Right hand Bat,Right arm Medium fast
+13,2021/2022,Islamabad United,Muhammad Musa,Bowler,21y 106d,Right hand Bat,Right arm Fast medium
+14,2021/2022,Islamabad United,Colin Munro,Opening Batter,34y 276d,Left hand Bat,Right arm Medium fast
+15,2021/2022,Islamabad United,Rahmanullah Gurbaz†,Wicketkeeper Batter,20y 14d,Right hand Bat,
+16,2021/2022,Islamabad United,Paul Stirling,Batting Allrounder,31y 100d,Right hand Bat,Right arm Offbreak
+17,2021/2022,Islamabad United,Zafar Gohar,Bowler,26y 314d,Left hand Bat,Slow Left arm Orthodox
+18,2021/2022,Islamabad United,Zahir Khan,Bowler,22y 357d,Left hand Bat,Left arm Wrist spin
+19,2021/2022,Islamabad United,Zeeshan Zameer,Bowling Allrounder,19y 124d,Right hand Bat,Right arm Fast medium
+20,2021/2022,Islamabad United,Reece Topley,Bowler,27y 294d,Right hand Bat,Left arm Fast medium
+21,2021/2022,Karachi Kings,Babar Azam(c),Batter,27y 58d,Right hand Bat,Right arm Offbreak
+22,2021/2022,Karachi Kings,Aamer Yamin,Allrounder,31y 169d,Right hand Bat,Right arm Medium
+23,2021/2022,Karachi Kings,Joe Clarke,Top order Batter,25y 200d,Right hand Bat,
+24,2021/2022,Karachi Kings,Ian Cockbain,Middle order Batter,34y 298d,Right hand Bat,Right arm Medium
+25,2021/2022,Karachi Kings,Lewis Gregory,Allrounder,29y 202d,Right hand Bat,Right arm Medium fast
+26,2021/2022,Karachi Kings,Imad Wasim,Allrounder,32y 359d,Left hand Bat,Slow Left arm Orthodox
+27,2021/2022,Karachi Kings,Tom Lammonby,Batting Allrounder,21y 193d,Left hand Bat,Left arm Medium fast
+28,2021/2022,Karachi Kings,Mohammad Amir,Bowler,29y 243d,Left hand Bat,Left arm Fast medium
+29,2021/2022,Karachi Kings,Mohammad Ilyas,Bowler,22y 266d,Right hand Bat,Right arm Medium fast
+30,2021/2022,Karachi Kings,Mohammad Imran,Bowler,20y 326d,Right hand Bat,Left arm Medium fast
+31,2021/2022,Karachi Kings,Mohammad Nabi,Allrounder,36y 345d,Right hand Bat,Right arm Offbreak
+32,2021/2022,Karachi Kings,Mohammad Taha,Allrounder,21y 216d,Left hand Bat,Slow Left arm Orthodox
+33,2021/2022,Karachi Kings,Qasim Akram,Allrounder,19y 11d,Right hand Bat,Right arm Offbreak
+34,2021/2022,Karachi Kings,Rohail Nazir†,Wicketkeeper Batter,20y 63d,Right hand Bat,
+35,2021/2022,Karachi Kings,Sahibzada Farhan,Middle order Batter,25y 281d,Right hand Bat,
+36,2021/2022,Karachi Kings,Sharjeel Khan,Opening Batter,32y 120d,Left hand Bat,Legbreak
+37,2021/2022,Karachi Kings,Talha Ahsan,,18y 51d,Right hand Bat,Legbreak
+38,2021/2022,Karachi Kings,Jordan Thompson,Bowling Allrounder,25y 64d,Left hand Bat,Right arm Medium fast
+39,2021/2022,Karachi Kings,Umaid Asif,Bowling Allrounder,37y 226d,Right hand Bat,Right arm Medium fast
+40,2021/2022,Karachi Kings,Tom Abell,Batting Allrounder,27y 282d,Right hand Bat,Right arm Medium
+41,2021/2022,Karachi Kings,Faisal Akram,Bowler,18y 114d,Left hand Bat,Left arm Wrist spin
+42,2021/2022,Karachi Kings,Chris Jordan,Bowler,33y 69d,Right hand Bat,Right arm Fast medium
+43,2021/2022,Karachi Kings,Romario Shepherd,Bowling Allrounder,27y 16d,Right hand Bat,Right arm Fast medium
+44,2021/2022,Lahore Qalandars,Shaheen Shah Afridi(c),Bowler,21y 250d,Left hand Bat,Left arm Fast
+45,2021/2022,Lahore Qalandars,Abdullah Shafique,Top order Batter,22y 22d,Right hand Bat,Right arm Offbreak
+46,2021/2022,Lahore Qalandars,Ahmed Daniyal,Bowler,24y 162d,Right hand Bat,Right arm Medium fast
+47,2021/2022,Lahore Qalandars,Akif Javed,Bowler,21y 63d,Right hand Bat,Left arm Medium fast
+48,2021/2022,Lahore Qalandars,Harry Brook,Batter,22y 293d,Right hand Bat,Right arm Medium
+49,2021/2022,Lahore Qalandars,Ben Dunk†,Wicketkeeper Batter,34y 276d,Left hand Bat,Right arm Offbreak
+50,2021/2022,Lahore Qalandars,Fakhar Zaman,Opening Batter,31y 246d,Left hand Bat,Slow Left arm Orthodox
+51,2021/2022,Lahore Qalandars,Dean Foxcroft,Allrounder,23y 236d,Right hand Bat,Right arm Offbreak
+52,2021/2022,Lahore Qalandars,Haris Rauf,Bowler,28y 35d,Right hand Bat,Right arm Fast
+53,2021/2022,Lahore Qalandars,Kamran Ghulam,Allrounder,26y 63d,Right hand Bat,Slow Left arm Orthodox
+54,2021/2022,Lahore Qalandars,Maaz Khan,Bowler,23y 302d,Right hand Bat,Legbreak Googly
+55,2021/2022,Lahore Qalandars,Mohammad Hafeez,Allrounder,41y 56d,Right hand Bat,Right arm Offbreak
+56,2021/2022,Lahore Qalandars,Mohammad Imran,Allrounder,24y 352d,Right hand Bat,Right arm Medium
+57,2021/2022,Lahore Qalandars,Samit Patel,Allrounder,37y 12d,Right hand Bat,Slow Left arm Orthodox
+58,2021/2022,Lahore Qalandars,Matthew Potts,Bowler,23y 44d,Right hand Bat,Right arm Fast medium
+59,2021/2022,Lahore Qalandars,Rashid Khan,Bowling Allrounder,23y 83d,Right hand Bat,Legbreak Googly
+60,2021/2022,Lahore Qalandars,Phil Salt†,Wicketkeeper Batter,25y 106d,Right hand Bat,Right arm Offbreak
+61,2021/2022,Lahore Qalandars,Sohail Akhtar,Allrounder,35y 285d,Right hand Bat,Right arm Medium
+62,2021/2022,Lahore Qalandars,Syed Faridoun,Bowler,20y 211d,Right hand Bat,Left arm Wrist spin
+63,2021/2022,Lahore Qalandars,David Wiese,Allrounder,36y 208d,Right hand Bat,Right arm Medium fast
+64,2021/2022,Lahore Qalandars,Zaman Khan,Bowler,20y 93d,Right hand Bat,Right arm Fast
+65,2021/2022,Lahore Qalandars,Zeeshan Ashraf†,Wicketkeeper Batter,29y 215d,Left hand Bat,Right arm Offbreak
+66,2021/2022,Peshawar Zalmi,Wahab Riaz(c),Bowler,36y 167d,Right hand Bat,Left arm Fast
+67,2021/2022,Peshawar Zalmi,Arish Ali Khan,Bowler,20y 357d,Right hand Bat,Slow Left arm Orthodox
+68,2021/2022,Peshawar Zalmi,Arshad Iqbal,Bowler,20y 351d,Right hand Bat,Right arm Medium fast
+69,2021/2022,Peshawar Zalmi,Pat Brown,Bowler,23y 111d,Right hand Bat,Right arm Fast medium
+70,2021/2022,Peshawar Zalmi,Ben Cutting,Allrounder,34y 316d,Right hand Bat,Right arm Fast medium
+71,2021/2022,Peshawar Zalmi,Haider Ali,Middle order Batter,21y 71d,Right hand Bat,
+72,2021/2022,Peshawar Zalmi,Hazratullah Zazai,Opening Batter,23y 264d,Left hand Bat,Slow Left arm Orthodox
+73,2021/2022,Peshawar Zalmi,Hussain Talat,Allrounder,25y 303d,Left hand Bat,Right arm Medium fast
+74,2021/2022,Peshawar Zalmi,Kamran Akmal†,Wicketkeeper Batter,39y 333d,Right hand Bat,
+75,2021/2022,Peshawar Zalmi,Tom Kohler-Cadmore,Batter,27y 115d,Right hand Bat,Right arm Offbreak
+76,2021/2022,Peshawar Zalmi,Liam Livingstone,Batting Allrounder,28y 130d,Right hand Bat,Legbreak
+77,2021/2022,Peshawar Zalmi,Saqib Mahmood,Bowler,24y 290d,Right hand Bat,Right arm Fast medium
+78,2021/2022,Peshawar Zalmi,Mohammad Haris,Middle order Batter,20y 257d,Right hand Bat,Right arm Offbreak
+79,2021/2022,Peshawar Zalmi,Mohammad Umar,Bowler,21y 350d,Right hand Bat,Right arm Medium
+80,2021/2022,Peshawar Zalmi,Matt Parkinson,Bowler,25y 49d,Right hand Bat,Legbreak
+81,2021/2022,Peshawar Zalmi,Sherfane Rutherford,Middle order Batter,23y 119d,Left hand Bat,Right arm Fast medium
+82,2021/2022,Peshawar Zalmi,Salman Irshad,Bowler,26y 9d,Right hand Bat,Right arm Fast medium
+83,2021/2022,Peshawar Zalmi,Sameen Gul,Bowler,22y 311d,Right hand Bat,Right arm Medium
+84,2021/2022,Peshawar Zalmi,Shoaib Malik,Allrounder,39y 314d,Right hand Bat,Right arm Offbreak
+85,2021/2022,Peshawar Zalmi,Sirajuddin,Bowler,Batting: Right hand Bat,,
+86,2021/2022,Peshawar Zalmi,Sohail Khan,Bowler,37y 281d,Right hand Bat,Right arm Fast medium
+87,2021/2022,Peshawar Zalmi,Usman Qadir,Bowler,28y 124d,Left hand Bat,Legbreak
+88,2021/2022,Peshawar Zalmi,Mohammad Amir Khan,Bowler,20y 94d,Right hand Bat,Right arm Medium
+89,2021/2022,Quetta Gladiators,Sarfaraz Ahmed† (c),Wicketkeeper Batter,34y 204d,Right hand Bat,Right arm Offbreak
+90,2021/2022,Quetta Gladiators,Abdul Bangalzai,Batter,18y 283d,Right hand Bat,
+91,2021/2022,Quetta Gladiators,Ahsan Ali,Top order Batter,28y 2d,Right hand Bat,Legbreak
+92,2021/2022,Quetta Gladiators,Ali Imran,Batting Allrounder,23y 290d,Right hand Bat,Right arm Medium
+93,2021/2022,Quetta Gladiators,Ashir Qureshi,Bowler,20y 122d,Right hand Bat,Legbreak Googly
+94,2021/2022,Quetta Gladiators,Ben Duckett,Top order Batter,27y 56d,Left hand Bat,Right arm Offbreak
+95,2021/2022,Quetta Gladiators,James Faulkner,Bowling Allrounder,31y 227d,Right hand Bat,Left arm Fast medium
+96,2021/2022,Quetta Gladiators,Ghulam Mudassar,Bowler,22y 49d,Right hand Bat,Left arm Fast medium
+97,2021/2022,Quetta Gladiators,Shimron Hetmyer,Top order Batter,24y 351d,Left hand Bat,
+98,2021/2022,Quetta Gladiators,Iftikhar Ahmed,Middle order Batter,31y 100d,Right hand Bat,Right arm Offbreak
+99,2021/2022,Quetta Gladiators,Khurram Shahzad,Bowler,28y 78d,Right hand Bat,Right arm Medium fast
+100,2021/2022,Quetta Gladiators,Dan Lawrence,Middle order Batter,24y 153d,Right hand Bat,Right arm Offbreak
+101,2021/2022,Quetta Gladiators,Mohammad Hasnain,Bowler,21y 251d,Right hand Bat,Right arm Fast
+102,2021/2022,Quetta Gladiators,Mohammad Nawaz,Allrounder,27y 266d,Left hand Bat,Slow Left arm Orthodox
+103,2021/2022,Quetta Gladiators,Naseem Shah,Bowler,18y 300d,Right hand Bat,Right arm Fast
+104,2021/2022,Quetta Gladiators,Noor Ahmad,Bowler,16y 343d,Right hand Bat,Left arm Wrist spin
+105,2021/2022,Quetta Gladiators,Jason Roy,Opening Batter,31y 144d,Right hand Bat,
+106,2021/2022,Quetta Gladiators,Shahid Afridi,Allrounder,41y 286d,Right hand Bat,Legbreak Googly
+107,2021/2022,Quetta Gladiators,Will Smeed,Batter,20y 47d,Right hand Bat,Right arm Offbreak
+108,2021/2022,Quetta Gladiators,Sohail Tanvir,Bowler,37y ,Left hand Bat,Left arm Medium fast
+109,2021/2022,Quetta Gladiators,Umar Akmal,Middle order Batter,31y 200d,Right hand Bat,Right arm Offbreak
+110,2021/2022,Quetta Gladiators,James Vince,Batter,30y 273d,Right hand Bat,Right arm Medium
+111,2021/2022,Quetta Gladiators,Luke Wood,Bowling Allrounder,26y 132d,Left hand Bat,Left arm Fast medium
+112,2021/2022,Quetta Gladiators,Naveen-ul-Haq,Bowler,22y 80d,Right hand Bat,Right arm Medium fast
+113,2021/2022,Multan Sultans,Mohammad Rizwan† (c),Wicketkeeper Batter,29y 194d,Right hand Bat,
+114,2021/2022,Multan Sultans,Aamer Azmat,,21y 16d,Right hand Bat,Right arm Offbreak
+115,2021/2022,Multan Sultans,Abbas Afridi,Bowler,20y 251d,Right hand Bat,Right arm Medium fast
+116,2021/2022,Multan Sultans,Anwar Ali,Bowler,34y 17d,Right hand Bat,Right arm Medium fast
+117,2021/2022,Multan Sultans,Asif Afridi,Bowling Allrounder,34y 352d,Left hand Bat,Slow Left arm Orthodox
+118,2021/2022,Multan Sultans,Johnson Charles†,Wicketkeeper Batter,32y 332d,Right hand Bat,
+119,2021/2022,Multan Sultans,Tim David,Middle order Batter,25y 271d,Right hand Bat,Right arm Offbreak
+120,2021/2022,Multan Sultans,Dominic Drakes,Bowling Allrounder,23y 309d,Left hand Bat,Left arm Medium fast
+121,2021/2022,Multan Sultans,Ihsanullah,Bowler,19y 62d,Right hand Bat,Right arm Fast
+122,2021/2022,Multan Sultans,Imran Khan,Bowler,34y 150d,Right hand Bat,Right arm Medium fast
+123,2021/2022,Multan Sultans,Imran Tahir,Bowler,42y 260d,Right hand Bat,Legbreak Googly
+124,2021/2022,Multan Sultans,Khushdil Shah,Middle order Batter,26y 308d,Left hand Bat,Slow Left arm Orthodox
+125,2021/2022,Multan Sultans,Blessing Muzarabani,Bowler,25y 71d,Right hand Bat,Right arm Fast medium
+126,2021/2022,Multan Sultans,Rovman Powell,Middle order Batter,28y 142d,Right hand Bat,Right arm Medium fast
+127,2021/2022,Multan Sultans,Rizwan Hussain,Batter,25y 230d,Left hand Bat,
+128,2021/2022,Multan Sultans,Rilee Rossouw,Top order Batter,32y 64d,Left hand Bat,Right arm Offbreak
+129,2021/2022,Multan Sultans,Rumman Raees,Bowler,30y 55d,Right hand Bat,Left arm Medium fast
+130,2021/2022,Multan Sultans,Shahnawaz Dahani,Bowler,23y 129d,Right hand Bat,Right arm Fast medium
+131,2021/2022,Multan Sultans,Shan Masood,Opening Batter,32y 59d,Left hand Bat,Right arm Medium fast
+132,2021/2022,Multan Sultans,Sohaib Maqsood,Middle order Batter,34y 241d,Right hand Bat,Right arm Offbreak
+133,2021/2022,Multan Sultans,David Willey,Bowling Allrounder,31y 287d,Left hand Bat,Left arm Fast medium
+134,2021/2022,Multan Sultans,Odean Smith,Bowling Allrounder,25y 41d,Right hand Bat,Right arm Fast medium

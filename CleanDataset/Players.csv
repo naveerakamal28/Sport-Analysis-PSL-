@@ -1,0 +1,338 @@
+Player_Id,Name,Role,Batting_style,Bowling_style
+1,"Amad Butt","Bowling Allrounder","Right hand Bat","Right arm Fast"
+2,"Babar Azam",Batter,"Right hand Bat","Right arm Offbreak"
+3,"Samuel Badree",Bowler,"Right hand Bat",Legbreak
+4,"Sam Billings ","Wicketkeeper Batter","Right hand Bat",
+5,"Brad Haddin ","Wicketkeeper Batter","Right hand Bat",
+6,"Imran Khalid",,"Left hand Bat","Slow Left arm Orthodox"
+7,"Kamran Ghulam",Allrounder,"Right hand Bat","Slow Left arm Orthodox"
+8,"Khalid Latif","Top order Batter","Right hand Bat","Right arm Offbreak"
+9,"Misbah-ul-Haq ","Middle order Batter","Right hand Bat",Legbreak
+10,"Mohammad Irfan",Bowler,"Right hand Bat","Left arm Fast"
+11,"Mohammad Sami",Bowler,"Right hand Bat","Right arm Fast"
+12,"Rumman Raees",Bowler,"Right hand Bat","Left arm Medium fast"
+13,"Andre Russell",Allrounder,"Right hand Bat","Right arm Fast"
+14,"Sharjeel Khan","Opening Batter","Left hand Bat",Legbreak
+15,"Umar Amin","Top order Batter","Left hand Bat","Right arm Medium"
+16,"Shane Watson",Allrounder,"Right hand Bat","Right arm Fast medium"
+17,"Shoaib Malik",Allrounder,"Right hand Bat","Right arm Offbreak"
+18,"Bilawal Bhatti",Bowler,"Right hand Bat","Right arm Medium fast"
+19,"Ravi Bopara","Batting Allrounder","Right hand Bat","Right arm Medium"
+20,"Iftikhar Ahmed","Middle order Batter","Right hand Bat","Right arm Offbreak"
+21,"Imad Wasim",Allrounder,"Left hand Bat","Slow Left arm Orthodox"
+22,"Mir Hamza",Bowler,"Left hand Bat","Left arm Medium"
+23,"Mohammad Amir",Bowler,"Left hand Bat","Left arm Fast medium"
+24,"Mushfiqur Rahim","Wicketkeeper Batter","Right hand Bat",
+25,"Nauman Anwar","Opening Batter","Right hand Bat","Right arm Medium fast"
+26,"Saifullah Bangash","Wicketkeeper Batter","Right hand Bat",
+27,"Shakib Al",Allrounder,"Left hand Bat","Slow Left arm Orthodox"
+28,"Lendl Simmons","Top order Batter","Right hand Bat","Right arm Medium fast"
+29,"Sohail Khan",Bowler,"Right hand Bat","Right arm Fast medium"
+30,"Sohail Tanvir",Bowler,"Left hand Bat","Left arm Medium fast"
+31,"Usama Mir",Bowler,"Right hand Bat",Legbreak
+32,"James Vince",Batter,"Right hand Bat","Right arm Medium"
+33,"Adnan Rasool",,"Right hand Bat","Right arm Offbreak"
+34,"Azhar Ali","Top order Batter","Right hand Bat",Legbreak
+35,"Dwayne Bravo",Allrounder,"Right hand Bat","Right arm Medium"
+36,"Kevon Cooper",Allrounder,"Right hand Bat","Right arm Medium"
+37,"Cameron Delport","Top order Batter","Left hand Bat","Right arm Medium"
+38,"Chris Gayle",Allrounder,"Left hand Bat","Right arm Offbreak"
+39,"Hammad Azam","Middle order Batter","Right hand Bat","Right arm Medium"
+40,"Mohammad Rizwan ","Wicketkeeper Batter","Right hand Bat",
+41,"Mustafizur Rahman",Bowler,"Left hand Bat","Left arm Fast medium"
+42,"Naved Yasin","Middle order Batter","Left hand Bat","Slow Left arm Orthodox"
+43,"Sohaib Maqsood","Middle order Batter","Right hand Bat","Right arm Offbreak"
+44,"Umar Akmal","Middle order Batter","Right hand Bat","Right arm Offbreak"
+45,"Yasir Shah",Bowler,"Right hand Bat","Legbreak Googly"
+46,"Zafar Gohar",Bowler,"Left hand Bat","Slow Left arm Orthodox"
+47,"Zia-ul-Haq ",,"Right hand Bat","Left arm Fast medium"
+48,"Zohaib Khan",Allrounder,"Right hand Bat","Slow Left arm Orthodox"
+49,"Aamer Yamin",Allrounder,"Right hand Bat","Right arm Medium"
+50,"Abdur Rehman",Bowler,"Left hand Bat","Slow Left arm Orthodox"
+51,"Jim Allenby",Allrounder,"Right hand Bat","Right arm Medium"
+52,"Jonny Bairstow ","Wicketkeeper Batter","Right hand Bat","Right arm Medium"
+53,"Hasan Ali",Bowler,"Right hand Bat","Right arm Medium fast"
+54,"Imran Khan",Bowler,"Right hand Bat","Left arm Medium fast"
+55,"Junaid Khan",Bowler,"Right hand Bat","Left arm Fast"
+56,"Kamran Akmal","Wicketkeeper Batter","Right hand Bat",
+57,"Dawid Malan","Top order Batter","Left hand Bat",Legbreak
+58,"Mohammad Asghar",Bowler,"Right hand Bat","Slow Left arm Orthodox"
+59,"Mohammad Hafeez",Allrounder,"Right hand Bat","Right arm Offbreak"
+60,"Musadiq Ahmed",,"Right hand Bat",
+61,"Daren Sammy",Allrounder,"Right hand Bat","Right arm Medium"
+62,"Shahid Afridi",Allrounder,"Right hand Bat","Legbreak Googly"
+63,"Shahid Yousuf",Batter,"Right hand Bat","Right arm Medium fast"
+64,"Shaun Tait",Bowler,"Right hand Bat","Right arm Fast"
+65,"Tamim Iqbal","Opening Batter","Left hand Bat",
+66,"Wahab Riaz",Bowler,"Right hand Bat","Left arm Fast"
+67,"Chris Jordan",Bowler,"Right hand Bat","Right arm Fast medium"
+68,"Sarfaraz Ahmed","Wicketkeeper Batter","Right hand Bat","Right arm Offbreak"
+69,"Ahmed Shehzad","Opening Batter","Right hand Bat",Legbreak
+70,"Akbar-ur-Rehman ",Allrounder,"Right hand Bat","Legbreak Googly"
+71,"Anwar Ali",Bowler,"Right hand Bat","Right arm Medium fast"
+72,"Asad Shafiq","Middle order Batter","Right hand Bat","Right arm Offbreak"
+73,"Bilal Asif",Allrounder,"Right hand Bat","Right arm Offbreak"
+74,"Bismillah Khan ","Wicketkeeper Batter","Right hand Bat",
+75,"Elton Chigumbura",Allrounder,"Right hand Bat","Right arm Fast medium"
+76,"Mohammad Nabi",Allrounder,"Right hand Bat","Right arm Offbreak"
+77,"Mohammad Nawaz",Allrounder,"Left hand Bat","Slow Left arm Orthodox"
+78,"Kevin Pietersen","Top order Batter","Right hand Bat","Right arm Offbreak"
+79,"Saad Nasim",Allrounder,"Right hand Bat",Legbreak
+80,"Umar Gul",Bowler,"Right hand Bat","Right arm Fast medium"
+81,"Luke Wright","Top order Batter","Right hand Bat","Right arm Medium"
+82,"Zulfiqar Babar",Bowler,"Right hand Bat","Slow Left arm Orthodox"
+83,"Jason Holder","Bowling Allrounder","Right hand Bat","Right arm Medium fast"
+85,"Asif Ali","Middle order Batter","Right hand Bat","Right arm Offbreak"
+86,"Ben Duckett","Top order Batter","Left hand Bat","Right arm Offbreak"
+87,"Steven Finn",Bowler,"Right hand Bat","Right arm Fast medium"
+88,"Hussain Talat",Allrounder,"Left hand Bat","Right arm Medium fast"
+89,"Nicholas Pooran ","Wicketkeeper Batter","Left hand Bat","Right arm Offbreak"
+90,"Saeed Ajmal",Bowler,"Right hand Bat","Right arm Offbreak"
+91,"Shadab Khan",Allrounder,"Right hand Bat",Legbreak
+92,"Dwayne Smith",Allrounder,"Right hand Bat","Right arm Medium"
+93,"Kumar Sangakkara","Wicketkeeper Batter","Left hand Bat","Right arm Offbreak"
+94,"Abrar Ahmed",Bowler,"Right hand Bat","Legbreak Googly"
+95,"Hasan Mohsin","Middle order Batter","Right hand Bat","Right arm Medium"
+96,"Mahela Jayawardene",Batter,"Right hand Bat","Right arm Medium"
+97,"Kashif Bhatti",Allrounder,"Right hand Bat","Slow Left arm Orthodox"
+98,"Khurram Manzoor","Opening Batter","Right hand Bat","Right arm Offbreak"
+99,"Ryan McLaren",Allrounder,"Left hand Bat","Right arm Medium fast"
+100,"Kieron Pollard","Batting Allrounder","Right hand Bat","Right arm Medium"
+101,"Rahat Ali",Bowler,"Right hand Bat","Left arm Fast medium"
+102,"Shahzaib Hasan","Opening Batter","Right hand Bat","Right arm Offbreak"
+104,"Usman Shinwari",Bowler,"Right hand Bat","Left arm Medium fast"
+105,"Brendon McCullum","Wicketkeeper Batter","Right hand Bat","Right arm Medium, Right arm Offbreak"
+106,"Grant Elliott",Allrounder,"Right hand Bat","Right arm Medium"
+107,"Fakhar Zaman","Opening Batter","Left hand Bat","Slow Left arm Orthodox"
+108,"James Franklin",Allrounder,"Left hand Bat","Left arm Medium"
+109,"Ghulam Mudassar",Bowler,"Right hand Bat","Left arm Fast medium"
+110,"Chris Green","Bowling Allrounder","Right hand Bat","Right arm Offbreak"
+111,"Sunil Narine","Bowling Allrounder","Left hand Bat","Right arm Offbreak"
+112,"Jason Roy","Opening Batter","Right hand Bat",
+113,"Saif Badar","Middle order Batter","Right hand Bat","Legbreak Googly"
+114,"Usman Qadir",Bowler,"Left hand Bat",Legbreak
+116,"Tillakaratne Dilshan",Allrounder,"Right hand Bat","Right arm Offbreak"
+117,"Andre Fletcher","Top order Batter","Right hand Bat","Right arm Medium fast, Legbreak"
+118,"Haris Sohail","Middle order Batter","Left hand Bat","Slow Left arm Orthodox"
+119,"Khushdil Shah","Middle order Batter","Left hand Bat","Slow Left arm Orthodox"
+120,"Eoin Morgan","Middle order Batter","Left hand Bat","Right arm Medium"
+121,"Samit Patel",Allrounder,"Right hand Bat","Slow Left arm Orthodox"
+122,"Marlon Samuels","Top order Batter","Right hand Bat","Right arm Offbreak"
+123,"Sarfaraz Ahmed","Wicketkeeper Batter","Right hand Bat","Right arm Offbreak"
+124,"Hassan Khan",Bowler,"Right hand Bat","Slow Left arm Orthodox"
+125,"Mahmudullah ",Allrounder,"Right hand Bat","Right arm Offbreak"
+126,"Nathan McCullum",Bowler,"Right hand Bat","Right arm Offbreak"
+127,"Tymal Mills",Bowler,"Right hand Bat","Left arm Fast"
+128,"Noor Wali",,"Right hand Bat","Right arm Medium"
+129,"Thisara Perera","Bowling Allrounder","Left hand Bat","Right arm Medium fast"
+130,"Rilee Rossouw","Top order Batter","Left hand Bat","Right arm Offbreak"
+131,"Jean-Paul Duminy","Batting Allrounder","Left hand Bat","Right arm Offbreak"
+132,"Faheem Ashraf","Bowling Allrounder","Left hand Bat","Right arm Medium"
+133,"Alex Hales","Opening Batter","Right hand Bat","Right arm Medium"
+134,"Mohammad Hasan","Middle order Batter","Right hand Bat",
+135,"Rohail Nazir","Wicketkeeper Batter","Right hand Bat",
+136,"Luke Ronchi ","Wicketkeeper Batter","Right hand Bat",
+137,"Sahibzada Farhan","Middle order Batter","Right hand Bat",
+138,"Chadwick Walton","Top order Batter","Right hand Bat",
+139,"Joe Denly","Top order Batter","Right hand Bat",Legbreak
+140,"Colin Ingram","Top order Batter","Left hand Bat",Legbreak
+141,"Mohammad Taha",Allrounder,"Left hand Bat","Slow Left arm Orthodox"
+142,"Tabish Khan",Bowler,"Right hand Bat","Right arm Fast medium"
+143,"David Wiese",Allrounder,"Right hand Bat","Right arm Medium fast"
+144,"Anton Devcich","Opening Batter","Left hand Bat","Slow Left arm Orthodox"
+145,"Gulraiz Sadaf","Middle order Batter","Right hand Bat",
+146,"Chris Lynn",Batter,"Right hand Bat","Slow Left arm Orthodox"
+147,"Mitchell McClenaghan",Bowler,"Left hand Bat","Left arm Fast medium"
+148,"Denesh Ramdin ","Wicketkeeper Batter","Right hand Bat",
+149,"Raza Hasan",Bowler,"Right hand Bat","Slow Left arm Orthodox"
+150,"Salman Irshad",Bowler,"Right hand Bat","Right arm Fast medium"
+151,"Shaheen Shah",Bowler,"Left hand Bat","Left arm Fast"
+152,"Sohail Akhtar",Allrounder,"Right hand Bat","Right arm Medium"
+153,"Liam Dawson",Allrounder,"Right hand Bat","Slow Left arm Orthodox"
+154,"Ibtisam Sheikh",Bowler,"Left hand Bat","Legbreak Googly"
+155,"Khalid Usman","Bowling Allrounder","Right hand Bat","Slow Left arm Orthodox"
+156,"Li Jian",,"Right hand Bat","Right arm Medium fast"
+157,"Mohammad Arif","Opening Batter","Right hand Bat",
+158,"Sabbir Rahman","Middle order Batter","Right hand Bat",Legbreak
+159,"Sameen Gul",Bowler,"Right hand Bat","Right arm Medium"
+160,"Taimoor Sultan","Opening Batter","Right hand Bat",
+161,"Umaid Asif","Bowling Allrounder","Right hand Bat","Right arm Medium fast"
+162,"Riki Wessels","Middle order Batter","Right hand Bat",
+163,"Zhang Yufei",Allrounder,"Right hand Bat","Right arm Medium fast"
+164,"Jofra Archer",Bowler,"Right hand Bat","Right arm Fast"
+165,"Azam Khan ",Wicketkeeper,"Right hand Bat",
+166,"Faraz Ahmed",Bowler,"Right hand Bat","Right arm Medium fast"
+167,"Rashid Khan","Bowling Allrounder","Right hand Bat","Legbreak Googly"
+168,"Syed Saad","Top order Batter","Left hand Bat","Right arm Medium"
+169,"Saud Shakeel","Middle order Batter","Left hand Bat","Left arm Slow"
+171,"Ian Bell","Top order Batter","Right hand Bat","Right arm Medium"
+172,"Muhammad Musa",Bowler,"Right hand Bat","Right arm Fast medium"
+173,"Nasir Nawaz",,"Right hand Bat","Right arm Medium fast"
+174,"Wayne Parnell",Bowler,"Left hand Bat","Left arm Medium fast"
+175,"Rizwan Hussain",Batter,"Left hand Bat",
+176,"Phil Salt ","Wicketkeeper Batter","Right hand Bat","Right arm Offbreak"
+177,"Waqas Maqsood",Bowler,"Left hand Bat","Left arm Fast medium"
+178,"Zahir Khan",Bowler,"Left hand Bat","Left arm Wrist spin"
+180,"Ali Imran","Batting Allrounder","Right hand Bat","Right arm Medium"
+181,"Awais Zia","Opening Batter","Left hand Bat","Right arm Offbreak"
+182,"Ben Dunk ","Wicketkeeper Batter","Left hand Bat","Right arm Offbreak"
+183,"Jaahid Ali",,"Right hand Bat","Right arm Offbreak"
+184,"Liam Livingstone","Batting Allrounder","Right hand Bat",Legbreak
+185,"Colin Munro","Opening Batter","Left hand Bat","Right arm Medium fast"
+186,"Sikandar Raza","Batting Allrounder","Right hand Bat","Right arm Offbreak"
+187,"Aaron Summers",,"Right hand Bat","Right arm Fast"
+188,"Umer Khan",Bowler,"Left hand Bat","Slow Left arm Orthodox"
+190,"Agha Salman",Allrounder,"Right hand Bat","Right arm Offbreak"
+191,"Aizaz Cheema",Bowler,"Right hand Bat","Right arm Medium fast"
+192,"Corey Anderson","Batting Allrounder","Left hand Bat","Left arm Medium fast"
+193,"Carlos Brathwaite",Allrounder,"Right hand Bat","Right arm Fast medium"
+194,"AB de","Wicketkeeper Batter","Right hand Bat","Right arm Medium"
+195,"Gauhar Ali",,"Right hand Bat",
+196,"Haris Rauf",Bowler,"Right hand Bat","Right arm Fast"
+197,"Sandeep Lamichhane",Bowler,"Right hand Bat","Legbreak Googly"
+198,"Mohammad Imran",Allrounder,"Right hand Bat","Right arm Medium"
+199,"Brendan Taylor ","Wicketkeeper Batter","Right hand Bat","Right arm Offbreak"
+200,"Umair Masood",,"Right hand Bat",
+201,"Hardus Viljoen",Bowler,"Right hand Bat","Right arm Fast"
+202,"Jamal Anwar",,"Right hand Bat",
+203,"Wayne Madsen",Batter,"Right hand Bat","Right arm Offbreak"
+204,"Nabi Gul",,"Right hand Bat",
+205,"Waqar Salamkheil",Bowler,"Right hand Bat","Left arm Wrist spin"
+206,"Ahsan Ali","Top order Batter","Right hand Bat",Legbreak
+207,"Danish Aziz",Allrounder,"Left hand Bat","Slow Left arm Orthodox"
+208,"Fawad Ahmed",Bowler,"Right hand Bat","Legbreak Googly"
+209,"Harry Gurney",Bowler,"Right hand Bat","Left arm Fast medium"
+210,"Jalat Khan",,"Left hand Bat","Slow Left arm Orthodox"
+211,"Mohammad Hasnain",Bowler,"Right hand Bat","Right arm Fast"
+212,"Naseem Shah",Bowler,"Right hand Bat","Right arm Fast"
+213,"Ali Shafique",Bowler,"Right hand Bat","Right arm Medium"
+214,"Johnson Charles ","Wicketkeeper Batter","Right hand Bat",
+215,"Dan Christian",Allrounder,"Right hand Bat","Right arm Fast medium"
+216,"Laurie Evans",Batter,"Right hand Bat","Right arm Offbreak"
+217,"Mohammad Abbas",Bowler,"Right hand Bat","Right arm Medium fast"
+218,"Mohammad Ilyas","Opening Batter","Left hand Bat","Right arm Offbreak"
+219,"Mohammad Junaid",,"Left hand Bat","Slow Left arm Orthodox"
+220,"Tom Moores ","Wicketkeeper Batter","Left hand Bat",
+221,"Nauman Ali",Bowler,"Left hand Bat","Slow Left arm Orthodox"
+222,"Qais Ahmad",Bowler,"Right hand Bat",Legbreak
+223,"Shakeel Ansar","Wicketkeeper Batter","Right hand Bat",
+224,"Shan Masood","Opening Batter","Left hand Bat","Right arm Medium fast"
+225,"Umar Siddiq","Opening Batter","Left hand Bat","Right arm Offbreak"
+226,"Steven Smith","Middle order Batter","Right hand Bat","Legbreak Googly"
+228,"Ahmed Safi","Bowling Allrounder","Left hand Bat","Slow Left arm Orthodox"
+229,"Akif Javed",Bowler,"Right hand Bat","Left arm Medium fast"
+230,"Dale Steyn",Bowler,"Right hand Bat","Right arm Fast"
+231,"Rassie van","Top order Batter","Right hand Bat",Legbreak
+232,"Ali Khan",Bowler,"Right hand Bat","Right arm Fast medium"
+233,"Arshad Iqbal",Bowler,"Right hand Bat","Right arm Medium fast"
+234,"Sherfane Rutherford","Middle order Batter","Left hand Bat","Right arm Fast medium"
+235,"Dan Lawrence","Middle order Batter","Right hand Bat","Right arm Offbreak"
+236,"Liam Plunkett",Bowler,"Right hand Bat","Right arm Fast"
+238,"Dilbar Hussain",Bowler,"Right hand Bat","Right arm Fast medium"
+239,"Muhammad Faizan",Batter,"Right hand Bat","Right arm Medium fast"
+240,"Seekkuge Prasanna",Allrounder,"Right hand Bat",Legbreak
+241,"Raja Farzan",Bowler,"Left hand Bat","Legbreak Googly"
+242,"Salman Butt",Batter,"Left hand Bat","Right arm Offbreak"
+243,"Dane Vilas ","Wicketkeeper Batter","Right hand Bat",
+245,"Aamir Ali",,"Left hand Bat","Slow Left arm Orthodox"
+246,"Adil Amin",,"Right hand Bat","Right arm Offbreak"
+247,"Tom Banton","Opening Batter","Right hand Bat",
+248,"Faf du","Middle order Batter","Right hand Bat",Legbreak
+249,"Lewis Gregory",Allrounder,"Right hand Bat","Right arm Medium fast"
+250,"Haider Ali","Middle order Batter","Right hand Bat",
+251,"Imam-ul-Haq ","Top order Batter","Left hand Bat",
+252,"Khurram Shahzad",Bowler,"Right hand Bat","Right arm Medium"
+253,"Saqib Mahmood",Bowler,"Right hand Bat","Right arm Fast medium"
+254,"Mohammad Mohsin","Bowling Allrounder","Left hand Bat","Legbreak Googly"
+255,"Mohammad Amir",Bowler,"Right hand Bat","Right arm Medium"
+256,"Dwaine Pretorius","Bowling Allrounder","Right hand Bat","Right arm Medium fast"
+258,"Abdul Nasir",Allrounder,"Right hand Bat","Right arm Offbreak"
+259,"Arish Ali",Bowler,"Right hand Bat","Slow Left arm Orthodox"
+260,"Ben Cutting",Allrounder,"Right hand Bat","Right arm Fast medium"
+261,"Keemo Paul",Allrounder,"Right hand Bat","Right arm Fast medium"
+263,"Moeen Ali","Batting Allrounder","Left hand Bat","Right arm Offbreak"
+264,"Fabian Allen","Bowling Allrounder","Right hand Bat","Slow Left arm Orthodox"
+265,"Imran Tahir",Bowler,"Right hand Bat","Legbreak Googly"
+266,"Adam Lyth",Batter,"Left hand Bat","Right arm Offbreak"
+267,"Zeeshan Ashraf ","Wicketkeeper Batter","Left hand Bat","Right arm Offbreak"
+268,"Usman Khawaja","Top order Batter","Left hand Bat","Right arm Medium"
+269,"Brandon King","Top order Batter","Right hand Bat",
+270,"Mohammad Wasim",Allrounder,"Right hand Bat","Right arm Fast medium"
+271,"Muhammad Akhlaq","Wicketkeeper Batter","Right hand Bat","Right arm Medium fast"
+272,"Zeeshan Zameer","Bowling Allrounder","Right hand Bat","Right arm Fast medium"
+273,"Janneman Malan","Top order Batter","Right hand Bat",Legbreak
+274,"Paul Stirling","Batting Allrounder","Right hand Bat","Right arm Offbreak"
+275,"Reece Topley",Bowler,"Right hand Bat","Left arm Fast medium"
+277,"Abbas Afridi",Bowler,"Right hand Bat","Right arm Medium fast"
+278,"Martin Guptill","Opening Batter","Right hand Bat","Right arm Offbreak"
+279,"Mohammad Haris","Middle order Batter","Right hand Bat","Right arm Offbreak"
+280,"Najibullah Zadran","Middle order Batter","Left hand Bat","Right arm Offbreak"
+281,"Noor Ahmad",Bowler,"Right hand Bat","Left arm Wrist spin"
+282,"Qasim Akram",Allrounder,"Right hand Bat","Right arm Offbreak"
+283,"Zeeshan Malik","Opening Batter","Right hand Bat","Right arm Offbreak"
+284,"Joe Clarke","Top order Batter","Right hand Bat",
+285,"Litton Das ","Wicketkeeper Batter","Right hand Bat","Right arm Offbreak"
+287,"Ahmed Daniyal",Bowler,"Right hand Bat","Right arm Medium fast"
+288,"Tim David","Middle order Batter","Right hand Bat","Right arm Offbreak"
+289,"James Faulkner","Bowling Allrounder","Right hand Bat","Left arm Fast medium"
+290,"Callum Ferguson","Middle order Batter","Right hand Bat","Right arm Medium"
+291,"Maaz Khan",Bowler,"Right hand Bat","Legbreak Googly"
+292,"Muhammad Zaid",Batter,"Right hand Bat","Right arm Medium fast"
+293,"Sultan Ahmed",Bowler,"Left hand Bat","Slow Left arm Orthodox"
+294,"Tom Abell","Batting Allrounder","Right hand Bat","Right arm Medium"
+295,"Joe Burns",Batter,"Right hand Bat","Right arm Medium, Right arm Offbreak"
+296,"Salman Mirza",Bowler,"Right hand Bat","Left arm Medium fast"
+298,"Fidel Edwards",Bowler,"Right hand Bat","Right arm Fast"
+299,"Hazratullah Zazai","Opening Batter","Left hand Bat","Slow Left arm Orthodox"
+300,"David Miller","Middle order Batter","Left hand Bat","Right arm Offbreak"
+301,"Rovman Powell","Middle order Batter","Right hand Bat","Right arm Medium fast"
+302,"Jonathan Wells","Middle order Batter","Right hand Bat","Right arm Medium"
+303,"Tom Kohler-Cadmore",Batter,"Right hand Bat","Right arm Offbreak"
+304,"Mujeeb Ur",Bowler,"Right hand Bat","Right arm Offbreak"
+306,"Saim Ayub","Top order Batter","Left hand Bat","Right arm Medium fast"
+307,"Usman Khan","Top order Batter","Right hand Bat","Right arm Offbreak"
+308,"Jake Weatherald","Top order Batter","Left hand Bat",Legbreak
+309,"Jack Wildermuth",Allrounder,"Right hand Bat","Right arm Medium fast"
+310,"Zahid Mahmood",Bowler,"Right hand Bat",Legbreak
+311,"Zahoor Khan",Bowler,"Right hand Bat","Right arm Medium fast"
+312,"Mohammad Rizwan","Wicketkeeper Batter","Right hand Bat",
+313,"Asif Afridi","Bowling Allrounder","Left hand Bat","Slow Left arm Orthodox"
+314,"Shimron Hetmyer","Top order Batter","Left hand Bat",
+315,"Mohammad Umar",Bowler,"Right hand Bat","Right arm Medium"
+316,"Muhammad Waseem","Opening Batter","Right hand Bat","Right arm Medium"
+317,"Blessing Muzarabani",Bowler,"Right hand Bat","Right arm Fast medium"
+318,"Rahmanullah Gurbaz","Wicketkeeper Batter","Right hand Bat",
+319,"Shahnawaz Dahani",Bowler,"Right hand Bat","Right arm Fast medium"
+320,"Sohaibullah ",Bowler,"Left hand Bat","Left arm Medium"
+321,"George Linde",Allrounder,"Left hand Bat","Slow Left arm Orthodox"
+322,"Obed McCoy",Bowler,"Left hand Bat","Left arm Fast medium"
+323,"Athar Mahmood",Bowler,"Right hand Bat","Right arm Fast medium"
+324,"Marchant de",Bowler,"Right hand Bat","Right arm Fast"
+325,"Muhammad Hurraira","Batting Allrounder","Right hand Bat",
+326,"Mubasir Khan",Allrounder,"Right hand Bat","Right arm Offbreak"
+328,"Ian Cockbain","Middle order Batter","Right hand Bat","Right arm Medium"
+329,"Tom Lammonby","Batting Allrounder","Left hand Bat","Left arm Medium fast"
+330,"Talha Ahsan",,"Right hand Bat",Legbreak
+331,"Jordan Thompson","Bowling Allrounder","Left hand Bat","Right arm Medium fast"
+332,"Faisal Akram",Bowler,"Left hand Bat","Left arm Wrist spin"
+333,"Romario Shepherd","Bowling Allrounder","Right hand Bat","Right arm Fast medium"
+335,"Abdullah Shafique","Top order Batter","Right hand Bat","Right arm Offbreak"
+336,"Harry Brook",Batter,"Right hand Bat","Right arm Medium"
+337,"Dean Foxcroft",Allrounder,"Right hand Bat","Right arm Offbreak"
+338,"Matthew Potts",Bowler,"Right hand Bat","Right arm Fast medium"
+339,"Syed Faridoun",Bowler,"Right hand Bat","Left arm Wrist spin"
+340,"Zaman Khan",Bowler,"Right hand Bat","Right arm Fast"
+341,"Pat Brown",Bowler,"Right hand Bat","Right arm Fast medium"
+342,"Matt Parkinson",Bowler,"Right hand Bat",Legbreak
+343,"Sirajuddin ",Bowler,,
+344,"Abdul Bangalzai",Batter,"Right hand Bat",
+345,"Ashir Qureshi",Bowler,"Right hand Bat","Legbreak Googly"
+346,"Will Smeed",Batter,"Right hand Bat","Right arm Offbreak"
+347,"Luke Wood","Bowling Allrounder","Left hand Bat","Left arm Fast medium"
+348,"Naveen-ul-Haq ",Bowler,"Right hand Bat","Right arm Medium fast"
+349,"Mohammad Rizwan ","Wicketkeeper Batter","Right hand Bat",
+350,"Aamer Azmat",,"Right hand Bat","Right arm Offbreak"
+351,"Dominic Drakes","Bowling Allrounder","Left hand Bat","Left arm Medium fast"
+352,"Ihsanullah ",Bowler,"Right hand Bat","Right arm Fast"
+353,"David Willey","Bowling Allrounder","Left hand Bat","Left arm Fast medium"
+354,"Odean Smith","Bowling Allrounder","Right hand Bat","Right arm Fast medium"
